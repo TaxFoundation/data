@@ -7,7 +7,7 @@ These data accompany the Tax Foundation's report [Annual State-Local Tax Burden 
 Dollars in this data are nominal. Inflation-adjusted data is available [here](http://taxfoundation.org/article/state-and-local-tax-burdens-all-years-one-state-1977-2011), calculated with the Consumer Price Index - All Urban Consumers, annual measure (1977-2011). The data begin with summary records for the United States as a whole, with averages weighted by population.
 
 | Name | Explanation |
-| --- | ---: |
+| --- | :--- |
 | `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. Summary data for the United States as a whole uses the id `0`. |
 | `location` | The name of the state described in the record. |
 | `burden` | The estimated tax burden on residents of a state in a given year, equal to `taxesPaidTotal` divided by `incomePerCapita`. |
