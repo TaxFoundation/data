@@ -8,4 +8,5 @@ Much of our work depends on compiling and creating datasets to illuminate public
 
 | Name | Description | Publication Date | Source |
 | --- | --- | --- | --- |
+| `interstate-migrations-2011` | Compiled IRS Data on Interstate Migration Inflows, 1992-2011 | August 12, 2014 | [IRS](http://www.irs.gov/uac/SOI-Tax-Stats-Migration-Data) |
 | `state-local-tax-burdens-2011` | [Annual State-Local Tax Burden Rankings FY2011](http://taxfoundation.org/article/annual-state-local-tax-burden-ranking-fy-2011) | April 2, 2014 | [Tax Foundation](http://taxfoundaion.org) |
