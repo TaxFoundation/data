@@ -17,7 +17,7 @@ These data summarize federal marginal income tax rates for US individuals and ho
 US federal income taxes are marginal taxes. The value in `incomeGreaterThan` is the amount above which that marginal bracket becomes applicable, reaching a maximum of `incomeNotGreaterThan`. For example, if you were a `single` filer in 2013 with taxable income of $40,000, you would owe 10% tax on income from $0 to $8,925, 15% from $8,925.01 to $36,250, and 25% on the remainder.
 
 | `incomeTaxRate` | `incomeGreaterThan` | `incomeNotGreaterThan` | Income Taxed | Tax Owed | Remainder |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 0.1 | 0 | 8925 | $8,925 | $892.50 | $39,107.50 |
 | 0.15 | 8925 | 36250 | $27,325 | $4,098.75 | $2,857.50 |
 | 0.25 | 36250 | 87850 | $2,857.50 | $714.44 | $0 |
