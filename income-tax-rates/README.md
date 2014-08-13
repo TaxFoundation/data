@@ -18,11 +18,11 @@ US federal income taxes are marginal taxes. The value in `incomeGreaterThan` is 
 
 | `incomeTaxRate` | `incomeGreaterThan` | `incomeNotGreaterThan` | Income Taxed | Tax Owed | Remainder |
 | --- | --- | --- | --- | --- | --- |
-| 0.1 | 0 | 8925 | $8,925 | $892.50 | $39,107.50 |
-| 0.15 | 8925 | 36250 | $27,325 | $4,098.75 | $2,857.50 |
-| 0.25 | 36250 | 87850 | $2,857.50 | $714.44 | $0 |
+| 0.1 | 0 | 8925 | $8,925 | $892.50 | $31,075 |
+| 0.15 | 8925 | 36250 | $27,325 | $4,098.75 | $3750 |
+| 0.25 | 36250 | 87850 | $3750 | $937.00 | $0 |
 
-In this example, total tax owed is $5,705.69. This makes the effective tax rate 14.26%.
+In this example, total tax owed is $5,928.25. This makes the effective tax rate 14.82%.
 
 ### Filing Status Explanation
 
