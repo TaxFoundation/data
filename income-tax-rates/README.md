@@ -20,9 +20,9 @@ US federal income taxes are marginal taxes. The value in `incomeGreaterThan` is 
 | --- | --- | --- | --- | --- | --- |
 | 0.1 | 0 | 8925 | $8,925 | $892.50 | $31,075 |
 | 0.15 | 8925 | 36250 | $27,325 | $4,098.75 | $3750 |
-| 0.25 | 36250 | 87850 | $3750 | $937.00 | $0 |
+| 0.25 | 36250 | 87850 | $3750 | $937.50 | $0 |
 
-In this example, total tax owed is $5,928.25. This makes the effective tax rate 14.82%.
+In this example, total tax owed is $5,928.75. This makes the effective tax rate 14.82%.
 
 ### Filing Status Explanation
 
