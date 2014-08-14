@@ -1,6 +1,6 @@
 # US Federal Income Tax Rates from 1862 to 2014
 
-These data summarize federal marginal income tax rates for US individuals and households beginning in 1862. Dollar amounts listed in `incomeBracket` are in nominal dollars.
+These data summarize federal marginal income tax rates for US individuals and households beginning in 1862. Dollar amounts listed in `incomeBracket` are in nominal dollars. These rates combine normal and surtax rates where applicable, and do not factor in exemptions.
 
 ## Explanation of Data
 
@@ -25,6 +25,8 @@ US federal income taxes are marginal taxes. The value in `incomeGreaterThan` is 
 In this example, total tax owed is $5,928.75. This makes the effective tax rate 14.82%.
 
 ### Filing Status Explanation
+
+Note: Not every filing status is present for each year.
 
 | Filing Status | Explanation |
 | --- | --- |
