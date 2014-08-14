@@ -1,6 +1,6 @@
 # US Federal Income Tax Rates from 1862 to 2014
 
-These data summarize federal marginal income tax rates for US individuals and households beginning in 1862. Dollar amounts listed in `incomeBracket` are in nominal dollars. These rates combine normal and surtax rates where applicable, and do not factor in exemptions.
+These data summarize federal marginal income tax rates for US individuals and households beginning in 1862. Dollar amounts listed in `incomeBracket` are in nominal dollars. These rates combine normal and surtax rates where applicable. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
 
 ## Explanation of Data
 
