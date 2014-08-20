@@ -25,5 +25,7 @@ Note: These data are UTF-8 encoded. Country names with special characters (e.g.,
 
 ## Additional Resources
 
+* [OECD](http://www.oecd.org/tax/tax-policy/tax-database.htm)
+* [PwC](http://www.pwc.com/gx/en/tax/corporate-tax/worldwide-tax-summaries/downloads.jhtml)
+* [Deloitte](https://dits.deloitte.com/#TaxGuides)
 * [Ernst and Young Worldwide Corporate Tax Guide](http://www.ey.com/GL/en/Services/Tax/Global-tax-guide-archive)
-* Rates are from multiple sources including: PwC, Deloitte, and OECD.
