@@ -14,5 +14,5 @@ Using [Bureau of Economic Analysis data](http://www.bea.gov/newsreleases/regiona
 
 ## Additional Resources
 
-* [Tax Foundation: The Real Value of $100](http://taxfoundation.org/blog/real-value-100-each-state)
+* [Tax Foundation: The Real Value of $100 in Metropolitan Areas](http://taxfoundation.org/blog/real-value-100-metropolitan-areas)
 * [Bureau of Economic Analysis: Real Personal Income for States and Metropolitan Areas, 2008-2012](http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm)
