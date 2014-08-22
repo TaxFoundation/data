@@ -4,6 +4,8 @@ This dataset compiled by the Tax Foundation lists known top marginal general cor
 
 GDP numbers are from the [Department of Agriculture’s International Macroeconomic Dataset](http://www.ers.usda.gov/data-products/international-macroeconomic-data-set.aspx#.U_SlPfldVMc). All values in 2005 U.S. dollars.
 
+![The Real Value of $100 in Metropolitan Areas](http://taxfoundation.org/sites/taxfoundation.org/files/docs/world-corporate-tax-rates-2014.png)
+
 ## Explanation of Data
 
 Note: These data are UTF-8 encoded. Country names with special characters (e.g., the Åland Islands) may not be read correctly in Excel. To get around this, open the file in Excel by going to Data -> Get External Data -> From Text. Select the downloaded CSV, and set `File origin:` to `65001 : Unicode (UTF-8)`.
