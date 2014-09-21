@@ -32,6 +32,8 @@ Second, the p-value of the overall and category scores for each country is scale
 
 ## Explanation of Data
 
+A more thorough description of these data and how the Tax Foundation uses them is contained within the [International Tax Competitiveness Index](http://taxfoundation.org/article/international-tax-competitiveness-index).
+
 | Name | Description |
 | --- | --- |
 | `country` | Name of each OECD nation in the Index, in English. |
