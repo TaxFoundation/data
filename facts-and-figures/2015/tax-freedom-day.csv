@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,taxFreedomDay,rank
+0,US,United States,2014-04-21,
+1,AL,Alabama,2014-04-07,46
+2,AK,Alaska,2014-04-11,36
+4,AZ,Arizona,2014-04-11,36
+5,AR,Arkansas,2014-04-12,34
+6,CA,California,2014-04-30,4
+8,CO,Colorado,2014-04-22,13
+9,CT,Connecticut,2014-05-09,1
+10,DE,Delaware,2014-04-18,19
+12,FL,Florida,2014-04-15,25
+13,GA,Georgia,2014-04-12,34
+15,HI,Hawaii,2014-04-15,25
+16,ID,Idaho,2014-04-11,36
+17,IL,Illinois,2014-04-28,7
+18,IN,Indiana,2014-04-16,24
+19,IA,Iowa,2014-04-13,32
+20,KS,Kansas,2014-04-18,19
+21,KY,Kentucky,2014-04-08,44
+22,LA,Louisiana,2014-03-30,50
+23,ME,Maine,2014-04-11,36
+24,MD,Maryland,2014-04-28,7
+25,MA,Massachusetts,2014-04-29,5
+26,MI,Michigan,2014-04-17,21
+27,MN,Minnesota,2014-04-29,5
+28,MS,Mississippi,2014-04-02,49
+29,MO,Missouri,2014-04-11,36
+30,MT,Montana,2014-04-14,28
+31,NE,Nebraska,2014-04-14,28
+32,NV,Nevada,2014-04-08,44
+33,NH,New Hampshire,2014-04-19,17
+34,NJ,New Jersey,2014-05-09,1
+35,NM,New Mexico,2014-04-08,44
+36,NY,New York,2014-05-04,3
+37,NC,North Carolina,2014-04-14,28
+38,ND,North Dakota,2014-04-25,9
+39,OH,Ohio,2014-04-14,28
+40,OK,Oklahoma,2014-04-11,36
+41,OR,Oregon,2014-04-20,16
+42,PA,Pennsylvania,2014-04-21,15
+44,RI,Rhode Island,2014-04-23,12
+45,SC,South Carolina,2014-04-09,43
+46,SD,South Dakota,2014-04-04,48
+47,TN,Tennessee,2014-04-05,47
+48,TX,Texas,2014-04-13,32
+49,UT,Utah,2014-04-17,21
+50,VT,Vermont,2014-04-19,17
+51,VA,Virginia,2014-04-24,11
+53,WA,Washington,2014-04-24,9
+54,WV,West Virginia,2014-04-10,42
+55,WI,Wisconsin,2014-04-22,13
+56,WY,Wyoming,2014-04-17,21
+11,DC,District of Columbia,2014-04-18,(19)
