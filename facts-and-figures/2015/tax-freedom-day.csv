@@ -8,6 +8,7 @@ id,stateAbbr,stateName,taxFreedomDay,rank
 8,CO,Colorado,2014-04-22,13
 9,CT,Connecticut,2014-05-09,1
 10,DE,Delaware,2014-04-18,19
+11,DC,District of Columbia,2014-04-18,(19)
 12,FL,Florida,2014-04-15,25
 13,GA,Georgia,2014-04-12,34
 15,HI,Hawaii,2014-04-15,25
@@ -50,4 +51,3 @@ id,stateAbbr,stateName,taxFreedomDay,rank
 54,WV,West Virginia,2014-04-10,42
 55,WI,Wisconsin,2014-04-22,13
 56,WY,Wyoming,2014-04-17,21
-11,DC,District of Columbia,2014-04-18,(19)
