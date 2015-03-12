@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,incomePerCapita
+0,US,United States,44765
+1,AL,Alabama,36481
+2,AK,Alaska,50150
+4,AZ,Arizona,36983
+5,AR,Arkansas,36698
+6,CA,California,48434
+8,CO,Colorado,46897
+9,CT,Connecticut,60658
+10,DE,Delaware,44815
+11,DC,District of Columbia,75330
+12,FL,Florida,41497
+13,GA,Georgia,37845
+15,HI,Hawaii,45203
+16,ID,Idaho,36146
+17,IL,Illinois,46980
+18,IN,Indiana,38622
+19,IA,Iowa,44763
+20,KS,Kansas,44417
+21,KY,Kentucky,36214
+22,LA,Louisiana,41204
+23,ME,Maine,40924
+24,MD,Maryland,53826
+25,MA,Massachusetts,57248
+26,MI,Michigan,39055
+27,MN,Minnesota,47500
+28,MS,Mississippi,33913
+29,MO,Missouri,40662
+30,MT,Montana,39366
+31,NE,Nebraska,47157
+32,NV,Nevada,39235
+33,NH,New Hampshire,51013
+34,NJ,New Jersey,55386
+35,NM,New Mexico,35964
+36,NY,New York,54462
+37,NC,North Carolina,38683
+38,ND,North Dakota,53183
+39,OH,Ohio,41049
+40,OK,Oklahoma,41861
+41,OR,Oregon,39848
+42,PA,Pennsylvania,46202
+44,RI,Rhode Island,46990
+45,SC,South Carolina,35831
+46,SD,South Dakota,46039
+47,TN,Tennessee,39558
+48,TX,Texas,43862
+49,UT,Utah,36640
+50,VT,Vermont,45483
+51,VA,Virginia,48838
+53,WA,Washington,47717
+54,WV,West Virginia,35533
+55,WI,Wisconsin,43243
+56,WY,Wyoming,52825
