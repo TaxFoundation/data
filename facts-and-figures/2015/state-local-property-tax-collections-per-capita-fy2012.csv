@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita
+0,US,United States,1426
+1,AL,Alabama,531
+2,AK,Alaska,2072
+4,AZ,Arizona,1052
+5,AR,Arkansas,662
+6,CA,California,1363
+8,CO,Colorado,1349
+9,CT,Connecticut,2626
+10,DE,Delaware,762
+11,DC,District of Columbia,2997
+12,FL,Florida,1281
+13,GA,Georgia,1050
+15,HI,Hawaii,947
+16,ID,Idaho,876
+17,IL,Illinois,1985
+18,IN,Indiana,994
+19,IA,Iowa,1479
+20,KS,Kansas,1364
+21,KY,Kentucky,716
+22,LA,Louisiana,793
+23,ME,Maine,1789
+24,MD,Maryland,1374
+25,MA,Massachusetts,2061
+26,MI,Michigan,1344
+27,MN,Minnesota,1466
+28,MS,Mississippi,870
+29,MO,Missouri,957
+30,MT,Montana,1377
+31,NE,Nebraska,1598
+32,NV,Nevada,1039
+33,NH,New Hampshire,2585
+34,NJ,New Jersey,2924
+35,NM,New Mexico,685
+36,NY,New York,2435
+37,NC,North Carolina,917
+38,ND,North Dakota,1143
+39,OH,Ohio,1174
+40,OK,Oklahoma,603
+41,OR,Oregon,1296
+42,PA,Pennsylvania,1338
+44,RI,Rhode Island,2234
+45,SC,South Carolina,1039
+46,SD,South Dakota,1216
+47,TN,Tennessee,799
+48,TX,Texas,1559
+49,UT,Utah,945
+50,VT,Vermont,2202
+51,VA,Virginia,1392
+53,WA,Washington,1345
+54,WV,West Virginia,773
+55,WI,Wisconsin,1758
+56,WY,Wyoming,2308
