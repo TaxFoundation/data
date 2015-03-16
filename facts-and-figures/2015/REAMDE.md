@@ -80,6 +80,22 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 | Wisconsin | Bracket levels adjusted for inflation each year. |
 | Wyoming | No individual income tax. |
 
+### State and Local Excise Tax Collections Per Capita, FY 2012
+
+Excise taxes are sales and other special taxes imposed on select items, such as tobacco products, alcoholic beverages, and motor fuels. This table also includes excise taxes, or selective sales taxes, on amusements, insurance premiums, parimutuels, and public utilities.
+
+Source: U.S. Census Bureau; Tax Foundation.
+
+### Property Taxes Paid as a Percentage of Owner-Occupied Housing Value, 2013
+
+The figures in this table are mean effective property tax rates on owner-occupied housing (total real taxes paid divided by total home value). As a result, the data exclude property taxes paid by businesses, renters, and others.
+
+Source: U.S. Census Bureau; Tax Foundation.
+
+### State and Local Property Tax Collections Per Capita, FY 2012
+
+Source: U.S. Census Bureau; Tax Foundation.
+
 ### Inheritance Taxes and Exemptions
 
 Inheritance taxes are taxes on shares bequeathed estates, with rates varying by the named beneficiary of each share. Only Iowa, Kentucky, Maryland, Nebraska, New Jersey and Pennsylvania levy inheritance taxes.
