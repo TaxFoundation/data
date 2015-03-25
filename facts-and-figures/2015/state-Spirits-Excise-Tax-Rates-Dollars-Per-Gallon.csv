@@ -1,9 +1,3 @@
-Table 25,,,
-,,,
-"As of January 1, 2015",,,
-,,,
-State Spirits Excise Tax Rates (Dollars Per Gallon),,,
-,,,
 id,stateAbbr,stateName,taxRate
 0,US,United States,13.5
 1,AL,Alabama,18.22
