@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,Tax Rate (a)
+id,stateAbbr,stateName,taxPerGallon
 0,US,United States,0.58
 1,AL,Alabama,1.05
 2,AK,Alaska,1.07
