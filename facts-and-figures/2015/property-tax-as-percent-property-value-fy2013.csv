@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,collectionsPerCapita
+id,stateAbbr,stateName,propTaxAsPercentPropValue
 0,US,United States,0.012
 1,AL,Alabama,0.0043
 2,AK,Alaska,0.0118
