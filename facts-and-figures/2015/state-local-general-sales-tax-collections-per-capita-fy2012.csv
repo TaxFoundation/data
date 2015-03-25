@@ -1,5 +1,6 @@
 id,stateAbbr,stateName,collectionsPerCapita
 0,US,United States,1007
+1,AL,Alabama,863
 2,AK,Alaska,286
 4,AZ,Arizona,1323
 5,AR,Arkansas,1271
@@ -50,4 +51,3 @@ id,stateAbbr,stateName,collectionsPerCapita
 54,WV,West Virginia,688
 55,WI,Wisconsin,809
 56,WY,Wyoming,2103
-
