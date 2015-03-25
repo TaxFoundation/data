@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita
+0,US,United States,$517
+1,AL,Alabama,$551
+2,AK,Alaska,$458
+4,AZ,Arizona,$330
+5,AR,Arkansas,$465
+6,CA,California,$396
+8,CO,Colorado,$421
+9,CT,Connecticut,$811
+10,DE,Delaware,$553
+11,DC,District of Columbia,$683
+12,FL,Florida,$599
+13,GA,Georgia,$320
+15,HI,Hawaii,$785
+16,ID,Idaho,$292
+17,IL,Illinois,$676
+18,IN,Indiana,$533
+19,IA,Iowa,$437
+20,KS,Kansas,$384
+21,KY,Kentucky,$585
+22,LA,Louisiana,$526
+23,ME,Maine,$520
+24,MD,Maryland,$658
+25,MA,Massachusetts,$383
+26,MI,Michigan,$404
+27,MN,Minnesota,$817
+28,MS,Mississippi,$479
+29,MO,Missouri,$397
+30,MT,Montana,$552
+31,NE,Nebraska,$323
+32,NV,Nevada,$882
+33,NH,New Hampshire,$663
+34,NJ,New Jersey,$460
+35,NM,New Mexico,$366
+36,NY,New York,$674
+37,NC,North Carolina,$437
+38,ND,North Dakota,$712
+39,OH,Ohio,$438
+40,OK,Oklahoma,$393
+41,OR,Oregon,$456
+42,PA,Pennsylvania,$671
+44,RI,Rhode Island,$629
+45,SC,South Carolina,$330
+46,SD,South Dakota,$465
+47,TN,Tennessee,$451
+48,TX,Texas,$573
+49,UT,Utah,$410
+50,VT,Vermont,"$1,013"
+51,VA,Virginia,$462
+53,WA,Washington,$698
+54,WV,West Virginia,$758
+55,WI,Wisconsin,$492
+56,WY,Wyoming,$283
