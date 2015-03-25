@@ -1,9 +1,4 @@
-Table 24,,,
-State Cigarette Excise Tax Rates (Dollars Per 20-Pack),,,
-"As of January 1, 2015",,,
-,,,
-,,,
-id,stateAbbr,stateName,taxRate
+id,stateAbbr,stateName,taxPerPack
 0,US,United States,1.01
 1,AL,Alabama,0.43
 2,AK,Alaska,2
@@ -56,6 +51,3 @@ id,stateAbbr,stateName,taxRate
 54,WV,West Virginia,0.55
 55,WI,Wisconsin,2.52
 56,WY,Wyoming,0.6
-"Note: Local taxes are not included and can be substantial. D.C.’s rank does not affect other states’ rankings, but the figure in parentheses indicates where it would rank if included.",,,
-,,,
-Source: RJ Reynolds; state revenue departments; Tax Foundation.,,,
