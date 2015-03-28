@@ -50,19 +50,19 @@ Published March 10, 2015.
 
 These data are in the process of being cleaned and added to Tax Foundation's data repository.
 
-### <a id="table01"></a>Tax Freedom Day 2014
+### <a id="table01"></a>Table 1. Tax Freedom Day 2014
 
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
 
 These data include the date of `taxFreedomDay` as [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) dates and the `rank` from earliest to latest.
 
-### <a id="table02"></a>State-Local Tax Burdens
+### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
 These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2011](http://taxfoundation.org/article/annual-state-local-tax-burden-ranking-fy-2011) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
 
 To see more complete data going back to 1977, see [here](https://github.com/TaxFoundation/data/tree/master/state-local-tax-burdens).
 
-### <a id="table12"></a>State Indvidual Income Tax Rates
+### <a id="table12"></a>Table 12. State Indvidual Income Tax Rates
 
 These data summarize state-level marginal income tax rates for US individuals as of January 1, 2015. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
 
@@ -146,23 +146,23 @@ Alaska, Delaware, Montana, New Hampshire, and Oregon have no state-level sales t
 
 Tax Foundation, Overreaching on Obesity: Governments Consider New Taxes on Soda and Candy, Tax Foundation SR: 196 (Oct. 2011); Commerce Clearing House.
 
-### <a id="table30"></a>State and Local Excise Tax Collections Per Capita, FY 2012
+### <a id="table30"></a>Table 30. State and Local Excise Tax Collections Per Capita, FY 2012
 
 Excise taxes are sales and other special taxes imposed on select items, such as tobacco products, alcoholic beverages, and motor fuels. This table also includes excise taxes, or selective sales taxes, on amusements, insurance premiums, parimutuels, and public utilities.
 
 Source: U.S. Census Bureau; Tax Foundation.
 
-### Property Taxes Paid as a Percentage of Owner-Occupied Housing Value, 2013
+### <a id="table31"></a>Table 31. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value, 2013
 
 The figures in this table are mean effective property tax rates on owner-occupied housing (total real taxes paid divided by total home value). As a result, the data exclude property taxes paid by businesses, renters, and others.
 
 Source: U.S. Census Bureau; Tax Foundation.
 
-### <a id="table31"></a>State and Local Property Tax Collections Per Capita, FY 2012
+### <a id="table32"></a>Table 32. State and Local Property Tax Collections Per Capita, FY 2012
 
 Source: U.S. Census Bureau; Tax Foundation.
 
-### <a id="table35"></a>Inheritance Taxes and Exemptions
+### <a id="table35"></a>Table 35. Inheritance Taxes and Exemptions
 
 Inheritance taxes are taxes on shares bequeathed estates, with rates varying by the named beneficiary of each share. Only Iowa, Kentucky, Maryland, Nebraska, New Jersey and Pennsylvania levy inheritance taxes.
 
@@ -196,6 +196,7 @@ These data are formatted as marginal tax rates. If statues allow for exemptions,
 * Iowa: [Iowa Inheritance Tax Rate Schedule](http://www.iowa.gov/tax/forms/60061.pdf)
 * Kentucky: [Kentucky Inheritance and Estate Tax Forms and Instructions](http://revenue.ky.gov/NR/rdonlyres/50722C6D-479E-472C-AF55-FF5BEADABE15/0/92A200P714.pdf)
 * Nebraska: [Direct family inheritance tax rates](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2004), [remote familiy inheritance tax rates](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2005), [charitable exemptions](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2007.04).
+
 ### <a id="table36"></a>Table 36. State Debt Per Capita
 
 Fiscal Year 2012
