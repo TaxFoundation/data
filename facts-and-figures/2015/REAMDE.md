@@ -15,7 +15,7 @@ Published March 10, 2015.
 | 7 | [State and Local Revenue Per Capita](#table07) | Fiscal Year 2012 | `07-state-local-revenue-per-capita-fy2012.csv` |
 | 8 | [Sources of State and Local Tax Collections, Percentage of Total from Each Source](#table08) | Fiscal Year 2012 | `08-sources-of-state-local-collections-fy2012.csv` |
 | 9 | [Federal Aid as a Percentage of State Revenue](#table09) | Fiscal Year 2013 | `09-federal-aid-as-percent-of-revenue-fy2013.csv` |
-| 10 | [Federal Income Tax Payments by Income Percentile](#table10) | 2012 | Intentionall Omitted from Set |
+| 10 | [Federal Income Tax Payments by Income Percentile](#table10) | 2012 | Intentionally Omitted from Set |
 | 11 | [Selected Federal Tax Rates](#table11) | 2015 | Intentionally Omitted from Set |
 | 12 | [State Individual Income Tax Rates](#table12) | 2015-01-01 | `12-state-individual-income-tax-rates-2015.csv` |
 | 13 | [State Individual Income Tax Collections Per Capita](#table13) | Fiscal Year 2013 | `13-state-individual-income-tax-collections-per-capita-fy2013.csv` |
@@ -132,13 +132,13 @@ This data set categorizes whether and how states include groceries, candy, and s
 
 | Name | Description |
 | --- | --- |
-| id | The ANSI code identifying the state in each record. |
-| stateAbbr | The ANSI code abbreviation for the state in each record. |
-| stateName | The full name of the state in each record. |
-| stateGeneralSalesTax | The state general sales tax rate. |
-| groceryTreatment | The way groceries are treated in the state. |
-| candyTreatedasGroceries | Whether or not candy is considered a grocery. |
-| sodaTreatedasGroceries | Whether or not soda is considered a grocery. |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `stateGeneralSalesTax` | The state general sales tax rate. |
+| `groceryTreatment` | The way groceries are treated in the state. |
+| `candyTreatedasGroceries` | Whether or not candy is considered a grocery. |
+| `sodaTreatedasGroceries` | Whether or not soda is considered a grocery. |
 
 Alaska, Delaware, Montana, New Hampshire, and Oregon have no state-level sales tax. Three states collect a separate, uniform 1% "local" add-on sales tax: California, Utah, and Virginia. We include these in their state sales tax.
 
