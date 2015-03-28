@@ -1,4 +1,4 @@
-id,location,year,burden,totalTaxBurdenPer Capita
+id,location,year,burden,totalTaxBurdenPerCapita
 0,United States,2011,0.098,4217
 1,Alabama,2011,0.083,2886
 2,Alaska,2011,0.07,3319

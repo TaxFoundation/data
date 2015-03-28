@@ -54,13 +54,30 @@ These data are in the process of being cleaned and added to Tax Foundation's dat
 
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
 
-These data include the date of `taxFreedomDay` as [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) dates and the `rank` from earliest to latest.
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `taxFreedomDay` | The date of Tax Freedom Day in [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) format in the state for the year 2014. |
 
 ### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
-These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2011](http://taxfoundation.org/article/annual-state-local-tax-burden-ranking-fy-2011) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
+These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2011](http://taxfoundation.org/article/annual-state-local-tax-burden-ranking-fy-2011) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid per capita by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
 
 To see more complete data going back to 1977, see [here](https://github.com/TaxFoundation/data/tree/master/state-local-tax-burdens).
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `burden` | The average percentage of per capita income forgone to state and local taxes. |
+| `totalTaxBurdenPerCapita` | The total per capita income forgone to state and local taxes. |
 
 ### <a id="table12"></a>Table 12. State Indvidual Income Tax Rates
 
@@ -130,6 +147,8 @@ As of January 1, 2015
 
 This data set categorizes whether and how states include groceries, candy, and soda in their sales tax base.
 
+#### Explanation of Data
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
@@ -152,15 +171,30 @@ Excise taxes are sales and other special taxes imposed on select items, such as 
 
 Source: U.S. Census Bureau; Tax Foundation.
 
-### <a id="table31"></a>Table 31. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value, 2013
+### <a id="table31"></a>Table 31. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value
+
+Average effective property tax rates by state in the calendar year 2013.
 
 The figures in this table are mean effective property tax rates on owner-occupied housing (total real taxes paid divided by total home value). As a result, the data exclude property taxes paid by businesses, renters, and others.
 
-Source: U.S. Census Bureau; Tax Foundation.
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `propTaxAsPercentPropValue` | Property tax as a percentage of property value. |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation.
 
 ### <a id="table32"></a>Table 32. State and Local Property Tax Collections Per Capita, FY 2012
 
-Source: U.S. Census Bureau; Tax Foundation.
+#### Source
+
+U.S. Census Bureau; Tax Foundation.
 
 ### <a id="table35"></a>Table 35. Inheritance Taxes and Exemptions
 
@@ -191,7 +225,7 @@ These data are formatted as marginal tax rates. If statues allow for exemptions,
 | `decedentResidency` | Indicates whether the recently deceased was a `resident` or a `nonresident` of a state, which can affect the tax owed. Where blank, residency status does not matter. |
 
 
-#### Inheritance Tax Sources
+#### Source
 
 * Iowa: [Iowa Inheritance Tax Rate Schedule](http://www.iowa.gov/tax/forms/60061.pdf)
 * Kentucky: [Kentucky Inheritance and Estate Tax Forms and Instructions](http://revenue.ky.gov/NR/rdonlyres/50722C6D-479E-472C-AF55-FF5BEADABE15/0/92A200P714.pdf)
