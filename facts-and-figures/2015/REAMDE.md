@@ -11,7 +11,7 @@ Published March 10, 2015.
 | 3 | State Business Tax Climate Index | 2014-07-01 | `03-state-business-tax-climate-index-2015.csv` |
 | 4 | State Tax Collections Per Capita | Fiscal Year 2013 | `04-state-tax-collections-per-capita-fy2013.csv` |
 | 5 | State REvenue Per Capita | Fiscal Year 2012 | `05-state-revenue-per-capita-fy2012.csv` |
-| 6 | State and Local Tax Collections Per Capita | `Fiscal Year 2012 | `06-state-local-collections-per-capita-fy2012.csv`
+| 6 | State and Local Tax Collections Per Capita | Fiscal Year 2012 | `06-state-local-collections-per-capita-fy2012.csv` |
 | 7 | State and Local Revenue Per Capita | Fiscal Year 2012 | `07-state-local-revenue-per-capita-fy2012.csv` |
 | 8 | Sources of State and Local Tax Collections, Percentage of Total from Each Source | Fiscal Year 2012 | `08-sources-of-state-local-collections-fy2012.csv` |
 | 9 | Federal Aid as a Percentage of State Revenue | Fiscal Year 2013 | `09-federal-aid-as-percent-of-revenue-fy2013.csv` |
@@ -179,14 +179,32 @@ These data are formatted as marginal tax rates. If statues allow for exemptions,
 
 Debt at end of fiscal year. See **People Per Household** for average people per household by state. DC is included only in state-local combined data. Source: U.S. Census Bureau, Tax Foundation calculations
 
-## State and Local Debt Per Capita
+### State and Local Debt Per Capita
 
 Total outstanding debt at end of fiscal year.  See **People Per Household** for average people per household by state. Source: U.S. Census Bureau, Tax Foundation calculations
 
-## Income Per Capita by State
+### Income Per Capita by State
 
 Per capita personal income is total personal income divided by total midyear population. All dollar estimates are in current dollars (not adjusted for inflation). Source: Bureau of Economic Analysis
 
-## People Per Household
+### Table 39. People Per Household
 
-Does not include persons living institutionalized housing, defined as adult or juvenile correctional institutions, some medical and military facilities, hospital residents, and psychiatric facilities. Source: U.S. Census Bureau, Tax Foundation calculations
+The average number of people per household by state.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| id  | The ANSI code identifying the state in each record.|
+| stateAbbr | The ANSI code abbreviation for the state in each record. |
+| stateName | The full name of the state in each record. |
+| 2012 | Average number of people per household in 2012 |
+| 2013 | Average number of People per household in 2013 |
+
+#### Notes
+
+Does not include persons living institutionalized housing, defined as adult or juvenile correctional institutions, some medical and military facilities, hospital residents, and psychiatric facilities.
+
+#### Source
+
+U.S. Census Bureau, Tax Foundation calculations
