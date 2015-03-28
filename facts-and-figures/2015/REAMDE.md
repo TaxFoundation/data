@@ -6,63 +6,63 @@ Published March 10, 2015.
 
 | Table | Name | Date |Filename |
 | --- | --- | --- | --- |
-| 1 | Tax Freedom Day | 2014 | `01-tax-freedom-day-2014.csv` |
-| 2 | State Local Tax Burdens | Fiscal Year 2011 | `02-state-local-tax-burden.csv` |
-| 3 | State Business Tax Climate Index | 2014-07-01 | `03-state-business-tax-climate-index-2015.csv` |
-| 4 | State Tax Collections Per Capita | Fiscal Year 2013 | `04-state-tax-collections-per-capita-fy2013.csv` |
-| 5 | State REvenue Per Capita | Fiscal Year 2012 | `05-state-revenue-per-capita-fy2012.csv` |
-| 6 | State and Local Tax Collections Per Capita | Fiscal Year 2012 | `06-state-local-collections-per-capita-fy2012.csv` |
-| 7 | State and Local Revenue Per Capita | Fiscal Year 2012 | `07-state-local-revenue-per-capita-fy2012.csv` |
-| 8 | Sources of State and Local Tax Collections, Percentage of Total from Each Source | Fiscal Year 2012 | `08-sources-of-state-local-collections-fy2012.csv` |
-| 9 | Federal Aid as a Percentage of State Revenue | Fiscal Year 2013 | `09-federal-aid-as-percent-of-revenue-fy2013.csv` |
-| 10 | Federal Income Tax Payments by Income Percentile | 2012 | Intentionall Omitted from Set |
-| 11 | Selected Federal Tax Rates | 2015 | Intentionally Omitted from Set |
-| 12 | State Individual Income Tax Rates | 2015-01-01 | `12-state-individual-income-tax-rates-2015.csv` |
-| 13 | State Individual Income Tax Collections Per Capita | Fiscal Year 2013 | `13-state-individual-income-tax-collections-per-capita-fy2013.csv` |
-| 14 | State and Local Individual Income Tax Collections Per Capita | Fiscal Year 2012 | `14-state-local-income-tax-collections-per-capita-fy2012.csv` |
-| 15 | State Corporate Income Tax Rates | 2015-01-01 | `15-state-corporate-income-tax-rates-2015.csv` |
-| 16 | State Corporate Income Tax Collections Per Capita | Fiscal Year 2013 | `16-state-corporate-income-tax-collections-per-capita-fy2013.csv` |
-| 17 | State and Local Corporate Income Tax Collections Per Capita | Fiscal Year 2012 | `17-state-local-corp-income-tax-collections-per-capita-fy2012.csv` |
-| 18 | State Gross Receipts Taxes | 2015-01-01 | Intentionally Omitted from Set |
-| 19 | State and Local Sales Tax Rates | 2015-01-01 | `19-state-local-sales-tax-rates-2015.csv` |
-| 20 | State General Sales Tax Collections per Capita | Fiscal Year 2013 | `20-state-general-sales-tax-collections-per-capita-fy2013.csv` |
-| 21 | State and Local General Sales Tax Collections Per Capita | Fiscal Year 2012 | `21-state-local-general-sales-tax-collections-per-capita-fy2012.csv` |
-| 22 | State Gasoline Tax Rates Per Gallon | 2015-01-01 | `22-state-gasoline-tax-rates-per-gallon-2015.csv` |
-| 23 | Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes | Fiscal Year 2012 | `23-state-local-road-spending-by-source-fy2012.csv` |
-| 24 | State Cigarette Excise Tax Rates (Dollars Per 20-Pack) | 2015-01-01 | `24-state-cigarette-excise-tax-rates-per-pack-2015` |
-| 25 | State Spirits Excise Tax Rates (Dollars Per Gallon) | 2015-01-01 | `25-state-spirits-excise-tax-rates-dollars-per-gallon-2015.csv` |
-| 26 | State Wine Excise Tax Rates (Dollars Per Gallon) | 2015-01-01 | `26-state-wine-excise-tax-rates-dollars-per-gallon-2015.csv` |
-| 27 | State Beer Excise Tax Rates (Dollars Per Gallon) | 2015-01-01 | `27-state-beer-excise-tax-rates-dollars-per-gallon-2015.csv` |
-| 28 | State & Local Cell Phone Tax Rates | 2014-07-01 | `28-state-local-cell-phone-tax-rates-2014.csv` |
-| 29 | Sales Tax Treatment of Groceries, Candy, and Soda | 2015-01-01 | `29-sales-tax-treatment-of-groceries-candy-and-soda-2015.csv` |
-| 30 | State and Local Excise Tax Collections Per Capita | Fiscal Year 2012 | `30-state-local-excise-tax-collections-per-capita-fy2012.csv` |
-| 31 | Property Taxes Paid as a Percentage of Owner-Occupied Housing Value | 2013 | `31-property-tax-as-percent-property-value-fy2013.csv` |
-| 32 | State and Local Property Tax Collections Per Capita | Fiscal Year 2012 | `32-state-local-property-tax-collections-per-capita-fy2012.csv` |
-| 33 | Capital Stock Tax Rates | 2015-01-01 | Intentionally Omitted from Set |
-| 34 | Estate Tax Rates and Exemptions | 2015-01-01 | Intentionally Omitted from Set |
-| 35 | Inheritance Tax Rates and Exemptions | 2015-01-01 | Intentionally Omitted from Set |
-| 36 | State Debt Per Capita | Fiscal Year 2013 | `36-state-debt-per-capita-fy2013.csv` |
-| 37 | State and Local Debt Per Capita | Fiscal Year 2012 | `37-state-local-debt-per-capita-fy2012.csv` |
-| 38 | Income Per Capita By State | 2013 | `38-income-per-capita-by-state-fy2013.csv` |
-| 39 | People Per Household By State | 2012-2013 | `39-people-per-household-2012-2013.csv` |
+| 1 | [Tax Freedom Day](#table01) | 2014 | `01-tax-freedom-day-2014.csv` |
+| 2 | [State Local Tax Burdens](#table02) | Fiscal Year 2011 | `02-state-local-tax-burden.csv` |
+| 3 | [State Business Tax Climate Index](#table03) | 2014-07-01 | `03-state-business-tax-climate-index-2015.csv` |
+| 4 | [State Tax Collections Per Capita](#table04) | Fiscal Year 2013 | `04-state-tax-collections-per-capita-fy2013.csv` |
+| 5 | [State Revenue Per Capita](#table05) | Fiscal Year 2012 | `05-state-revenue-per-capita-fy2012.csv` |
+| 6 | [State and Local Tax Collections Per Capita](#table06) | Fiscal Year 2012 | `06-state-local-collections-per-capita-fy2012.csv` |
+| 7 | [State and Local Revenue Per Capita](#table07) | Fiscal Year 2012 | `07-state-local-revenue-per-capita-fy2012.csv` |
+| 8 | [Sources of State and Local Tax Collections, Percentage of Total from Each Source](#table08) | Fiscal Year 2012 | `08-sources-of-state-local-collections-fy2012.csv` |
+| 9 | [Federal Aid as a Percentage of State Revenue](#table09) | Fiscal Year 2013 | `09-federal-aid-as-percent-of-revenue-fy2013.csv` |
+| 10 | [Federal Income Tax Payments by Income Percentile](#table10) | 2012 | Intentionall Omitted from Set |
+| 11 | [Selected Federal Tax Rates](#table11) | 2015 | Intentionally Omitted from Set |
+| 12 | [State Individual Income Tax Rates](#table12) | 2015-01-01 | `12-state-individual-income-tax-rates-2015.csv` |
+| 13 | [State Individual Income Tax Collections Per Capita](#table13) | Fiscal Year 2013 | `13-state-individual-income-tax-collections-per-capita-fy2013.csv` |
+| 14 | [State and Local Individual Income Tax Collections Per Capita](#table14) | Fiscal Year 2012 | `14-state-local-income-tax-collections-per-capita-fy2012.csv` |
+| 15 | [State Corporate Income Tax Rates](#table15) | 2015-01-01 | `15-state-corporate-income-tax-rates-2015.csv` |
+| 16 | [State Corporate Income Tax Collections Per Capita](#table16) | Fiscal Year 2013 | `16-state-corporate-income-tax-collections-per-capita-fy2013.csv` |
+| 17 | [State and Local Corporate Income Tax Collections Per Capita](#table17) | Fiscal Year 2012 | `17-state-local-corp-income-tax-collections-per-capita-fy2012.csv` |
+| 18 | [State Gross Receipts Taxes](#table18) | 2015-01-01 | Intentionally Omitted from Set |
+| 19 | [State and Local Sales Tax Rates](#table19) | 2015-01-01 | `19-state-local-sales-tax-rates-2015.csv` |
+| 20 | [State General Sales Tax Collections per Capita](#table20) | Fiscal Year 2013 | `20-state-general-sales-tax-collections-per-capita-fy2013.csv` |
+| 21 | [State and Local General Sales Tax Collections Per Capita](#table21) | Fiscal Year 2012 | `21-state-local-general-sales-tax-collections-per-capita-fy2012.csv` |
+| 22 | [State Gasoline Tax Rates Per Gallon](#table22) | 2015-01-01 | `22-state-gasoline-tax-rates-per-gallon-2015.csv` |
+| 23 | [Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes](#table23) | Fiscal Year 2012 | `23-state-local-road-spending-by-source-fy2012.csv` |
+| 24 | [State Cigarette Excise Tax Rates (Dollars Per 20-Pack)](#table24) | 2015-01-01 | `24-state-cigarette-excise-tax-rates-per-pack-2015` |
+| 25 | [State Spirits Excise Tax Rates (Dollars Per Gallon)](#table25) | 2015-01-01 | `25-state-spirits-excise-tax-rates-dollars-per-gallon-2015.csv` |
+| 26 | [State Wine Excise Tax Rates (Dollars Per Gallon)](#table26) | 2015-01-01 | `26-state-wine-excise-tax-rates-dollars-per-gallon-2015.csv` |
+| 27 | [State Beer Excise Tax Rates (Dollars Per Gallon)](#table27) | 2015-01-01 | `27-state-beer-excise-tax-rates-dollars-per-gallon-2015.csv` |
+| 28 | [State & Local Cell Phone Tax Rates](#table28) | 2014-07-01 | `28-state-local-cell-phone-tax-rates-2014.csv` |
+| 29 | [Sales Tax Treatment of Groceries, Candy, and Soda](#table29) | 2015-01-01 | `29-sales-tax-treatment-of-groceries-candy-and-soda-2015.csv` |
+| 30 | [State and Local Excise Tax Collections Per Capita](#table30) | Fiscal Year 2012 | `30-state-local-excise-tax-collections-per-capita-fy2012.csv` |
+| 31 | [Property Taxes Paid as a Percentage of Owner-Occupied Housing Value](#table31) | 2013 | `31-property-tax-as-percent-property-value-fy2013.csv` |
+| 32 | [State and Local Property Tax Collections Per Capita](#table32) | Fiscal Year 2012 | `32-state-local-property-tax-collections-per-capita-fy2012.csv` |
+| 33 | [Capital Stock Tax Rates](#table33) | 2015-01-01 | Intentionally Omitted from Set |
+| 34 | [Estate Tax Rates and Exemptions](#table34) | 2015-01-01 | Intentionally Omitted from Set |
+| 35 | [Inheritance Tax Rates and Exemptions](#table35) | 2015-01-01 | Intentionally Omitted from Set |
+| 36 | [State Debt Per Capita](#table36) | Fiscal Year 2013 | `36-state-debt-per-capita-fy2013.csv` |
+| 37 | [State and Local Debt Per Capita](#table37) | Fiscal Year 2012 | `37-state-local-debt-per-capita-fy2012.csv` |
+| 38 | [Income Per Capita By State](#table38) | 2013 | `38-income-per-capita-by-state-fy2013.csv` |
+| 39 | [People Per Household By State](#table39) | 2012-2013 | `39-people-per-household-2012-2013.csv` |
 
 ## Notes
 
 These data are in the process of being cleaned and added to Tax Foundation's data repository.
 
-### Tax Freedom Day 2014
+### <a id="table01"></a>Tax Freedom Day 2014
 
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
 
 These data include the date of `taxFreedomDay` as [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) dates and the `rank` from earliest to latest.
 
-### State-Local Tax Burdens
+### <a id="table02"></a>State-Local Tax Burdens
 
 These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2011](http://taxfoundation.org/article/annual-state-local-tax-burden-ranking-fy-2011) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
 
 To see more complete data going back to 1977, see [here](https://github.com/TaxFoundation/data/tree/master/state-local-tax-burdens).
 
-### State Indvidual Income Tax Rates
+### <a id="table12"></a>State Indvidual Income Tax Rates
 
 These data summarize state-level marginal income tax rates for US individuals as of January 1, 2015. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
 
@@ -124,7 +124,29 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 | Wisconsin | Bracket levels adjusted for inflation each year. |
 | Wyoming | No individual income tax. |
 
-### State and Local Excise Tax Collections Per Capita, FY 2012
+### <a id="table29"></a>Table 29. Sales Tax Treatment of Groceries, Candy, and Soda
+
+As of January 1, 2015
+
+This data set categorizes whether and how states include groceries, candy, and soda in their sales tax base.
+
+| Name | Description |
+| --- | --- |
+| id | The ANSI code identifying the state in each record. |
+| stateAbbr | The ANSI code abbreviation for the state in each record. |
+| stateName | The full name of the state in each record. |
+| stateGeneralSalesTax | The state general sales tax rate. |
+| groceryTreatment | The way groceries are treated in the state. |
+| candyTreatedasGroceries | Whether or not candy is considered a grocery. |
+| sodaTreatedasGroceries | Whether or not soda is considered a grocery. |
+
+Alaska, Delaware, Montana, New Hampshire, and Oregon have no state-level sales tax. Three states collect a separate, uniform 1% "local" add-on sales tax: California, Utah, and Virginia. We include these in their state sales tax.
+
+#### Source
+
+Tax Foundation, Overreaching on Obesity: Governments Consider New Taxes on Soda and Candy, Tax Foundation SR: 196 (Oct. 2011); Commerce Clearing House.
+
+### <a id="table30"></a>State and Local Excise Tax Collections Per Capita, FY 2012
 
 Excise taxes are sales and other special taxes imposed on select items, such as tobacco products, alcoholic beverages, and motor fuels. This table also includes excise taxes, or selective sales taxes, on amusements, insurance premiums, parimutuels, and public utilities.
 
@@ -136,11 +158,11 @@ The figures in this table are mean effective property tax rates on owner-occupie
 
 Source: U.S. Census Bureau; Tax Foundation.
 
-### State and Local Property Tax Collections Per Capita, FY 2012
+### <a id="table31"></a>State and Local Property Tax Collections Per Capita, FY 2012
 
 Source: U.S. Census Bureau; Tax Foundation.
 
-### Inheritance Taxes and Exemptions
+### <a id="table35"></a>Inheritance Taxes and Exemptions
 
 Inheritance taxes are taxes on shares bequeathed estates, with rates varying by the named beneficiary of each share. Only Iowa, Kentucky, Maryland, Nebraska, New Jersey and Pennsylvania levy inheritance taxes.
 
@@ -174,20 +196,70 @@ These data are formatted as marginal tax rates. If statues allow for exemptions,
 * Iowa: [Iowa Inheritance Tax Rate Schedule](http://www.iowa.gov/tax/forms/60061.pdf)
 * Kentucky: [Kentucky Inheritance and Estate Tax Forms and Instructions](http://revenue.ky.gov/NR/rdonlyres/50722C6D-479E-472C-AF55-FF5BEADABE15/0/92A200P714.pdf)
 * Nebraska: [Direct family inheritance tax rates](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2004), [remote familiy inheritance tax rates](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2005), [charitable exemptions](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2007.04).
+### <a id="table36"></a>Table 36. State Debt Per Capita
 
-### State Debt Per Capita
+Fiscal Year 2012
 
-Debt at end of fiscal year. See **People Per Household** for average people per household by state. DC is included only in state-local combined data. Source: U.S. Census Bureau, Tax Foundation calculations
+#### Explanation of Data
 
-### State and Local Debt Per Capita
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `debtPerCapita` | State government debt per capita in 2012 dollars. |
 
-Total outstanding debt at end of fiscal year.  See **People Per Household** for average people per household by state. Source: U.S. Census Bureau, Tax Foundation calculations
+#### Notes
 
-### Income Per Capita by State
+Debt at end of fiscal year. See People Per Household for average people per household by state. DC is included only in state-local combined data. 
 
-Per capita personal income is total personal income divided by total midyear population. All dollar estimates are in current dollars (not adjusted for inflation). Source: Bureau of Economic Analysis
+#### Source
 
-### Table 39. People Per Household
+U.S. Census Bureau, Tax Foundation calculations
+
+### <a id="table37"></a>Table 37. State and Local Debt Per Capita
+
+Fiscal Year 2012
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `debtPerCapita` | State and local government debt per capita in 2012 dollars. |
+
+#### Notes
+
+See [Table 39. People Per Household](#table39) for average people per household by state.
+
+#### Source
+
+U.S. Census Bureau, Tax Foundation calculations
+
+### <a id="table38"></a>Table 38. Income Per Capita by State
+
+Calendar Year 2013
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id`  | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `incomePerCapita` | State income per capita. |
+
+#### Notes
+
+Per capita personal income is total personal income divided by total midyear population. All dollar estimates are in current dollars (not adjusted for inflation). 
+
+#### Source
+
+U.S. Bureau of Economic Analysis
+
+### <a id="table39"></a>Table 39. People Per Household
 
 The average number of people per household by state.
 
