@@ -10,6 +10,8 @@ Published March 10, 2015.
 | 2 | State Local Tax Burdens | Fiscal Year 2011 | `02-state-local-tax-burden.csv` |
 | 3 | State Business Tax Climate Index | 2014-07-01 | `03-state-business-tax-climate-index-2015.csv` |
 | 4 | State Tax Collections Per Capita | Fiscal Year 2013 | `04-state-tax-collections-per-capita-fy2013.csv` |
+| 5 | State REvenue Per Capita | Fiscal Year 2012 | `05-state-revenue-per-capita-fy2012.csv` |
+| 6 | State and Local Tax Collections Per Capita | `Fiscal Year 2012 | `06-state-local-collections-per-capita-fy2012.csv`
 | 7 | State and Local Revenue Per Capita | Fiscal Year 2012 | `07-state-local-revenue-per-capita-fy2012.csv` |
 | 8 | Sources of State and Local Tax Collections, Percentage of Total from Each Source | Fiscal Year 2012 | `08-sources-of-state-local-collections-fy2012.csv` |
 | 9 | Federal Aid as a Percentage of State Revenue | Fiscal Year 2013 | `09-federal-aid-as-percent-of-revenue-fy2013.csv` |
