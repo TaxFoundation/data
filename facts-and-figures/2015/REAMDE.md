@@ -190,7 +190,18 @@ The figures in this table are mean effective property tax rates on owner-occupie
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table32"></a>Table 32. State and Local Property Tax Collections Per Capita, FY 2012
+### <a id="table32"></a>Table 32. State and Local Property Tax Collections Per Capita
+
+Fiscal Year 2012
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | State and local property tax collections per capita. |
 
 #### Source
 
