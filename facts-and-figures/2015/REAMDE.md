@@ -447,6 +447,19 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table18"></a>Table 18. State Gross Receipts Taxes
 
+####Note
+
+Gross receipts taxes are complex business taxes imposed at a low
+rate but on a wide base of transactions, resulting in high effective tax
+rates that can vary by industry. These taxes often include minimum tax
+liabilities that can result in much higher effective rates for some small
+businesses. 
+
+####Source
+
+Commerce Clearing House; state revenue departments; Weldon
+Cooper Center for Public Service.
+
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
 
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
