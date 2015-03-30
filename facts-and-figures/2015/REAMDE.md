@@ -121,7 +121,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table05"></a>Table 5. State Revenue Per Capita
 
-The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. See Table 39 for average people per household by state. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
+The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
 
 #### Explanation of Data
 
@@ -138,7 +138,37 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table06"></a>Table 6. State and Local Tax Collections Per Capita
 
+The total nominal amount of taxes collected by state and local governments within a state, divided by the individual population.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | The nominal amount of taxes collected by state and local governments in a state per capita. |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table07"></a>Table 7. State and Local Revenue Per Capita
+
+The total nominal revenue for state and local governments collected within a state, divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `revenuePerCapita` | The nominal amount of state revenue collected per capita. |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
 
 ### <a id="table08"></a>Table 8. Sources of State and Local Tax Collections, Percentage of Total from Each Source
 
