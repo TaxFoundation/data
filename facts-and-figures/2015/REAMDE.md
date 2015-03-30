@@ -77,13 +77,64 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 | `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
 | `burden` | The average percentage of per capita income forgone to state and local taxes. |
-| `totalTaxBurdenPerCapita` | The total per capita income forgone to state and local taxes. |
+| `totalTaxBurdenPerCapita` | The total income per capita forgone to state and local taxes. |
 
 ### <a id="table03"></a>Table 3. State Business Tax Climate Index
 
+The State Business Tax Climate Index compares states on over 100 different variables in five important areas of taxation (corporate taxes, individual income taxes, sales taxes, unemployment insurance taxes, and property taxes) and then adding the results up to a final, overall ranking. This approach rewards states on particularly strong aspects of their tax systems (or penalizes them on particularly weak aspects) while also measuring the general competitiveness of their overall tax systems. The result is a score that can be compared to other states’ scores.
+
+A rank of 1 indicates the state’s tax system is more favorable for business; a rank of 50 indicates the state’s tax system is less favorable for business. Snapshot data is law as of July 1, 2014. Component rankings do not average to total. States without a given tax are ranked equally as number 1 in that component. D.C.’s rank does not affect other states’ rankings, since it is not a state. The D.C. rank is only for reference purposes.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `rank` | The overall ranking for the given state. |
+| `corporateTaxRank` | The corporate tax ranking for the given state. |
+| `incomeTaxRank salesTaxRank` | The income tax ranking for the given state. |
+| `unemploymentInsuranceTaxRank` | The unemployment insurance tax ranking for the given state. |
+| `propertyTaxRank` | The property tax ranking for the given state. |
+
+#### Source
+
+[Tax Foundation, 2015 State Business Tax Climate Index (Oct. 2014)](http://taxfoundation.org/article/2015-state-business-tax-climate-index)
+
 ### <a id="table04"></a>Table 4. State Tax Collections Per Capita
 
+The total nominal amount of taxes collected in a state divided by the individual population.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | The nominal amount of taxes collected in a state per capita. |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table05"></a>Table 5. State Revenue Per Capita
+
+The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. See Table 39 for average people per household by state. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `revenuePerCapita` | The nominal amount of state revenue collected per capita. |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
 
 ### <a id="table06"></a>Table 6. State and Local Tax Collections Per Capita
 
