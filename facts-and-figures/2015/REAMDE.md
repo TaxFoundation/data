@@ -462,6 +462,16 @@ Cooper Center for Public Service.
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
 
+####Note
+
+D.C.’s rank does not affect other states’ rankings, but the figure in
+parentheses indicates where it would rank if included.
+Source: Sales Tax Clearing House; Tax Foundation.
+
+####Source
+
+Source: Sales Tax Clearing House; Tax Foundation.
+
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
 
 ### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
