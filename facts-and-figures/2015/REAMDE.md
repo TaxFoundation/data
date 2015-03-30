@@ -487,6 +487,17 @@ Source: Sales Tax Clearing House; Tax Foundation.
 
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
 
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total nominal State Sales tax collections per Capita . |
+
+####Source
+
+Source: U.S. Census Bureau; Tax Foundation 
+
 
 ### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
 
