@@ -79,6 +79,24 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 | `burden` | The average percentage of per capita income forgone to state and local taxes. |
 | `totalTaxBurdenPerCapita` | The total per capita income forgone to state and local taxes. |
 
+### <a id="table03"></a>Table 3. State Business Tax Climate Index
+
+### <a id="table04"></a>Table 4. State Tax Collections Per Capita
+
+### <a id="table05"></a>Table 5. State Revenue Per Capita
+
+### <a id="table06"></a>Table 6. State and Local Tax Collections Per Capita
+
+### <a id="table07"></a>Table 7. State and Local Revenue Per Capita
+
+### <a id="table08"></a>Table 8. Sources of State and Local Tax Collections, Percentage of Total from Each Source
+
+### <a id="table09"></a>Table 9. Federal Aid as a Percentage of State Revenue
+
+### <a id="table10"></a>Table 10. Federal Income Tax Payments by Income Percentile
+
+### <a id="table11"></a>Table 11. Selected Federal Tax Rates
+
 ### <a id="table12"></a>Table 12. State Indvidual Income Tax Rates
 
 These data summarize state-level marginal income tax rates for US individuals as of January 1, 2015. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
@@ -97,7 +115,6 @@ These data summarize state-level marginal income tax rates for US individuals as
 #### Notes on State Individual Income Tax Rates:
 
 Brackets are for single taxpayers. Some states double bracket widths for joint filers (Ala., Ariz., Calif., Conn., Hawaii, Idaho, Kans., La., Nebr., Ore.). N.Y. doubles all except the 6.85% bracket. Some states increase but do not double brackets for joint filers (Ga., Maine, Minn., N.M., N.D., Okla., R.I., Vt., Wis.). Md. increases some but not all brackets. N.J. adds a 2.45% rate and doubles some bracket widths. Consult TaxFoundation.org for tables for joint filers and married filing separately.
-
 
 | State | Notes |
 | --- | --- |
@@ -140,6 +157,38 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 | Washington | No individual income tax. |
 | Wisconsin | Bracket levels adjusted for inflation each year. |
 | Wyoming | No individual income tax. |
+
+### <a id="table13"></a>Table 13. State Individual Income Tax Collections Per Capita
+
+### <a id="table14"></a>Table 14. State and Local Individual Income Tax Collections Per Capita
+
+### <a id="table15"></a>Table 15. State Corporate Income Tax Rates
+
+### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
+
+### <a id="table12"></a>Table 17. State and Local Corporate Income Tax Collections Per Capita
+
+### <a id="table18"></a>Table 18. State Gross Receipts Taxes
+
+### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
+
+### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
+
+### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
+
+### <a id="table22"></a>Table 22. State Gasoline Tax Rates Per Gallon
+
+### <a id="table23"></a>Table 23. Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes
+
+### <a id="table24"></a>Table 24. State Cigarette Excise Tax Rates (Dollars Per 20-Pack)
+
+### <a id="table25"></a>Table 25. State Spirits Excise Tax Rates (Dollars Per Gallon)
+
+### <a id="table26"></a>Table 26. State Wine Excise Tax Rates (Dollars Per Gallon)
+
+### <a id="table27"></a>Table 27. State Beer Excise Tax Rates (Dollars Per Gallon)
+
+### <a id="table28"></a>Table 28. State & Local Cell Phone Tax Rates
 
 ### <a id="table29"></a>Table 29. Sales Tax Treatment of Groceries, Candy, and Soda
 
@@ -206,6 +255,10 @@ Fiscal Year 2012
 #### Source
 
 U.S. Census Bureau; Tax Foundation.
+
+### <a id="table33"></a>Table 33. Capital Stock Tax Rates
+
+### <a id="table34"></a>Table 34. Estate Tax Rates and Exemptions
 
 ### <a id="table35"></a>Table 35. Inheritance Taxes and Exemptions
 
