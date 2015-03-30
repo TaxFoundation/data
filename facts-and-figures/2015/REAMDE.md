@@ -413,6 +413,19 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
 
+#### explanation of data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total nominal corporate income tax collections per capita  . |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table17"></a>Table 17. State and Local Corporate Income Tax Collections Per Capita
 
 ### <a id="table18"></a>Table 18. State Gross Receipts Taxes
