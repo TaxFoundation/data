@@ -81,6 +81,8 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 
 ### <a id="table03"></a>Table 3. State Business Tax Climate Index
 
+Rankings based on snapshot date of July 1, 2014.
+
 The State Business Tax Climate Index compares states on over 100 different variables in five important areas of taxation (corporate taxes, individual income taxes, sales taxes, unemployment insurance taxes, and property taxes) and then adding the results up to a final, overall ranking. This approach rewards states on particularly strong aspects of their tax systems (or penalizes them on particularly weak aspects) while also measuring the general competitiveness of their overall tax systems. The result is a score that can be compared to other states’ scores.
 
 A rank of 1 indicates the state’s tax system is more favorable for business; a rank of 50 indicates the state’s tax system is less favorable for business. Snapshot data is law as of July 1, 2014. Component rankings do not average to total. States without a given tax are ranked equally as number 1 in that component. D.C.’s rank does not affect other states’ rankings, since it is not a state. The D.C. rank is only for reference purposes.
@@ -104,6 +106,8 @@ A rank of 1 indicates the state’s tax system is more favorable for business; a
 
 ### <a id="table04"></a>Table 4. State Tax Collections Per Capita
 
+Fiscal Year 2013.
+
 The total nominal amount of taxes collected in a state divided by the individual population.
 
 #### Explanation of Data
@@ -120,6 +124,8 @@ The total nominal amount of taxes collected in a state divided by the individual
 U.S. Census Bureau; Tax Foundation
 
 ### <a id="table05"></a>Table 5. State Revenue Per Capita
+
+Fiscal Year 2013
 
 The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
 
@@ -138,6 +144,8 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table06"></a>Table 6. State and Local Tax Collections Per Capita
 
+Fiscal Year 2012
+
 The total nominal amount of taxes collected by state and local governments within a state, divided by the individual population.
 
 #### Explanation of Data
@@ -154,6 +162,8 @@ The total nominal amount of taxes collected by state and local governments withi
 U.S. Census Bureau; Tax Foundation
 
 ### <a id="table07"></a>Table 7. State and Local Revenue Per Capita
+
+Fiscal Year 2012
 
 The total nominal revenue for state and local governments collected within a state, divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue.
 
@@ -172,9 +182,67 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table08"></a>Table 8. Sources of State and Local Tax Collections, Percentage of Total from Each Source
 
+Fiscal Year 2012
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `propertyTax` | The percentage of state and local tax collections coming from property taxes. |
+| `salesTax` | The percentage of state and local tax collections coming from sales taxes. |
+| `incomeTax` | The percentage of state and local tax collections coming from individual income taxes. |
+| `corporateTax` | The percentage of state and local tax collections coming from corporate income taxes. |
+| `otherTax` | The percentage of state and local tax collections coming from other taxes. |
+
+Other Taxes include excise taxes (such as those on alcohol, tobacco, motor vehicles, utilities, and licenses), severance taxes, stock transfer taxes, estate and gift taxes, and other miscellaneous taxes. This table classifies Washington’s Business & Occupation (B&O) Tax under Other Taxes. U.S. Census Bureau classifies this as a general sales tax.
+
+Percentages may not add to 100% due to rounding
+
 ### <a id="table09"></a>Table 9. Federal Aid as a Percentage of State Revenue
 
+Fiscal Year 2013
+
+Figures are calculated by dividing each state’s "Intergovernmental Revenue" by its "General Revenue."
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `federalAidPercentage` | The percentage of state and local tax revenue coming from federal transfers. |
+
+"General Revenue" includes all tax revenue but excludes utility revenue, liquor store revenue, and investment income from state pension funds. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table10"></a>Table 10. Federal Income Tax Payments by Income Percentile
+
+Calendar year 2012.
+
+This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not useful for data analysis. The table is reproduced below:
+
+| Income Percentile | Income Taxes Paid ($ millions) | Group's Share of Total AGI | Group's Share of Income Taxes | Average Tax Rate |
+| --- | --- | --- | --- | --- |
+| All Taxpayers | $1,184,978 | 100.0% | 100.0% | 12.5% |
+| Top 1% | $451,328 | 21.9% | 38.1% | 22.8% |
+| Top 5% | $698,543 | 36.8% | 58.9% | 21.0% |
+| Top 10% | $831,445 | 47.9% | 70.2% | 19.2% |
+| Top 25% | $1,024,046 | 69.3% | 86.4% | 16.4% |
+| Top 50% | $1,152,063 | 88.9% | 97.2% | 14.3% |
+| Bottom 50% | $32,915 | 11.1% | 2.8% | 3.3% |
+
+There are 136,080,353 total federal income tax filers. Total Adjusted Gross Income (AGI) is $9,041,744,000,000. The top 1% of earners have AGI above $434;682; the top 5% have above $175,817; the top 10% have above $125,195; the top 25% have above $73,354; and the top 50% have above $36,055.
+
+#### Source
+
+Tax Foundation, Summary of Latest Federal Individual Income Tax Data, Tax Foundation Fiscal Fact No. 445 (Dec. 2014).
 
 ### <a id="table11"></a>Table 11. Selected Federal Tax Rates
 
