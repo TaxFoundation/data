@@ -435,7 +435,7 @@ U.S. Census Bureau; Tax Foundation
 | `stateName` | The full name of the state in each record. |
 | `collectionsPerCapita` | Total nominal state and local corporate income tax collections per capita  . |
 
-###Notes
+###Note
 
 See Table 39 for average people per household by state. D.C.’s
 rank does not affect other state's rankings, but the figure in parentheses
@@ -454,7 +454,7 @@ U.S. Census Bureau; Tax Foundation
 | `stateName` | The full name of the state in each record. |
 | `collectionsPerCapita` | Total nominal State General Sales tax collections per capita . |
 
-####Note
+###Note
 
 Gross receipts taxes are complex business taxes imposed at a low
 rate but on a wide base of transactions, resulting in high effective tax
@@ -468,8 +468,14 @@ Commerce Clearing House; state revenue departments; Weldon
 Cooper Center for Public Service.
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total nominal State and Local sales tax rates . |
 
-####Note
+###Note
 
 D.C.’s rank does not affect other states’ rankings, but the figure in
 parentheses indicates where it would rank if included.
