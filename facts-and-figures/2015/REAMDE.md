@@ -420,13 +420,30 @@ U.S. Census Bureau; Tax Foundation
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal corporate income tax collections per capita  . |
+| `collectionsPerCapita` | Total nominal state corporate income tax collections per capita  . |
 
 #### Source
 
 U.S. Census Bureau; Tax Foundation
 
 ### <a id="table17"></a>Table 17. State and Local Corporate Income Tax Collections Per Capita
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total nominal state and local corporate income tax collections per capita  . |
+
+###Notes
+
+See Table 39 for average people per household by state. D.C.’s
+rank does not affect other state's rankings, but the figure in parentheses
+indicates where it would rank if included.
+
+####Source
+
+U.S. Census Bureau; Tax Foundation
 
 ### <a id="table18"></a>Table 18. State Gross Receipts Taxes
 
