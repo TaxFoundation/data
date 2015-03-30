@@ -226,7 +226,7 @@ U.S. Census Bureau; Tax Foundation
 
 Calendar year 2012.
 
-This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not useful for data analysis. The table is reproduced below:
+This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
 | Income Percentile | Income Taxes Paid ($ millions) | Group's Share of Total AGI | Group's Share of Income Taxes | Average Tax Rate |
 | --- | --- | --- | --- | --- |
@@ -245,6 +245,78 @@ There are 136,080,353 total federal income tax filers. Total Adjusted Gross Inco
 Tax Foundation, Summary of Latest Federal Individual Income Tax Data, Tax Foundation Fiscal Fact No. 445 (Dec. 2014).
 
 ### <a id="table11"></a>Table 11. Selected Federal Tax Rates
+
+These tables have not been included as part of the Tax Foundation data repository because they are summary tables intended purely for reference. These tables are not structured for data analysis. The tables are reproduced below:
+
+#### Individual Income Tax
+
+| Rates | Brackets |
+| --- | --- |
+| Single |
+| 10% | $0 |
+| 15% | $9,225 |
+| 25% | $37,450 |
+| 28% | $90,750 |
+| 33% | $189,300 |
+| 35% | $411,500 |
+| 40% | $413,200 |
+| Married Filing Jointly |
+| 10% | $0 |
+| 15% | $18,450 |
+| 25% | $74,900 |
+| 28% | $151,200 |
+| 33% | $230,450 |
+| 35% | $411,500 |
+| 40% | $464,850 |
+| Head of Household |
+| 10% | $0 |
+| 15% | $13,150 |
+| 25% | $50,200 |
+| 28% | $129,600 |
+| 33% | $209,850 |
+| 35% | $411,500 |
+| 40% | $439,000 |
+
+#### Social Security and Medicare Payroll Tabs
+
+These are total payroll tax rates. The Social Security tax is split evenly between employer and employee (6.2% each) for all income up to $118,500. The 1.45% medicare tax is levied on both employers and employees on all income. The Additional Medicare Tax of 0.9% is levied only on employees with wages and compensation exceeding $200,000 ($250,000 for joint filers).
+
+| Rates | Brackets |
+| --- | --- |
+| 15% | $0 |
+| 3% | $118,500 |
+| 4% | $200,000 |
+
+#### Corporate Income Tax
+
+| Rates | Brackets |
+| --- | --- |
+| 15% | $0 |
+| 25% | $50,000 |
+| 34% | $75,000 |
+| 39% | $100,000 |
+| 34% | $335,000 |
+| 35% | $10,000,000 |
+| 38% | $15,000,000 |
+| 35% | $18,333,333 |
+
+#### Select Federal Excise Taxes
+
+In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone, and tobacco excise taxes are included separately from state excise taxes in the United States (`id` of `0`) record.
+
+| Item | Rate |
+| --- | --- |
+| Pistols & Revolvers | 10.0% |
+| Other Firearms | 11.0% |
+| Ammunition | 11.0% |
+| Medical Devices | 2.3% |
+| Indoor Tanning | 10.0% |
+| Tackle Boxes | 3.0% |
+| Arrow Shafts | 48¢/shaft |
+| Air Transportation | 7.5% |
+| Truck Bodies | 12.0% |
+| Liq. Natural Gas | 24.3¢/gallon |
+| Surface Coal | 4.4% or $1.10/ton |
 
 ### <a id="table12"></a>Table 12. State Indvidual Income Tax Rates
 
