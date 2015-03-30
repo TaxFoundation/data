@@ -396,6 +396,19 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table14"></a>Table 14. State and Local Individual Income Tax Collections Per Capita
 
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total nominal income tax collections by state and local governments per capita. |
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table15"></a>Table 15. State Corporate Income Tax Rates
 
 ### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
