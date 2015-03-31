@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,stateSalesTax Rate,avgLocalSalesTaxRate,combinedStateLocalSalesTaxRate
+id,stateAbbr,stateName,stateSalesTaxRate,avgLocalSalesTaxRate,combinedStateLocalSalesTaxRate
 1,AL,Alabama,0.04,0.0491,0.0891
 2,AK,Alaska,0,0.0176,0.0176
 4,AZ,Arizona,0.056,0.0257,0.0817

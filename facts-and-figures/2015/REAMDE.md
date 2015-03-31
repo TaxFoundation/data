@@ -381,6 +381,8 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 
 ### <a id="table13"></a>Table 13. State Individual Income Tax Collections Per Capita
 
+Fiscal Year 2013
+
 #### Explanation of Data
 
 | Name | Description |
@@ -388,7 +390,11 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal income tax collections by state government per capita. |
+| `collectionsPerCapita` | Total nominal individual income tax collections by state government per capita. |
+
+#### Notes
+
+New Hampshire and Tennessee do not tax wage income, but do tax interest and dividend income.
 
 #### Source
 
@@ -396,6 +402,8 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table14"></a>Table 14. State and Local Individual Income Tax Collections Per Capita
 
+Fiscal Year 2012
+
 #### Explanation of Data
 
 | Name | Description |
@@ -403,7 +411,11 @@ U.S. Census Bureau; Tax Foundation
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal income tax collections by state and local governments per capita. |
+| `collectionsPerCapita` | Total nominal individual income tax collections by state and local governments in a state per capita. |
+
+#### Notes
+
+New Hampshire and Tennessee do not tax wage income, but do tax interest and dividend income.
 
 #### Source
 
@@ -413,14 +425,22 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
 
-#### explanation of data
+Fiscal Year 2013
+
+#### Explanation of Data
 
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal state corporate income tax collections per capita  . |
+| `collectionsPerCapita` | Total nominal corporate income tax collections by state governments per capita. |
+
+#### Notes
+
+Nevada, South Dakota, Washington, and Wyoming have no corporate income tax, but collections per capita may include special taxes on financial corporations.
+
+The U.S. Census Bureau does not classify revenue from gross receipts taxes such as those in Delaware, Ohio, Texas, Virginia, and Washington as corporate tax revenue. See [Table 18](#table18) for gross receipts taxes.
 
 #### Source
 
@@ -428,60 +448,73 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table17"></a>Table 17. State and Local Corporate Income Tax Collections Per Capita
 
+Fiscal Year 2012
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal state and local corporate income tax collections per capita  . |
+| `collectionsPerCapita` | Total nominal corporate income tax collections by state and local governments in a state per capita. |
 
-###Note
+#### Notes
 
-See Table 39 for average people per household by state. D.C.’s
-rank does not affect other state's rankings, but the figure in parentheses
-indicates where it would rank if included.
+Nevada, South Dakota, Washington, and Wyoming have no corporate income tax, but collections per capita may include special taxes on financial corporations.
 
-####Source
+The U.S. Census Bureau does not classify revenue from gross receipts taxes such as those in Delaware, Ohio, Texas, Virginia, and Washington as corporate tax revenue. See [Table 18](#table18) for gross receipts taxes.
+
+#### Source
 
 U.S. Census Bureau; Tax Foundation
 
 ### <a id="table18"></a>Table 18. State Gross Receipts Taxes
 
-| Name | Description |
-| --- | --- |
-| `id` | The ANSI code identifying the state in each record. |
-| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
-| `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal State General Sales tax collections per capita . |
+January 1, 2015
 
-###Note
+Gross receipts taxes are complex business taxes imposed at a low rate but on a wide base of transactions, resulting in high effective tax rates that can vary by industry. These taxes often include minimum tax liabilities that can result in much higher effective rates for some small businesses.
 
-Gross receipts taxes are complex business taxes imposed at a low
-rate but on a wide base of transactions, resulting in high effective tax
-rates that can vary by industry. These taxes often include minimum tax
-liabilities that can result in much higher effective rates for some small
-businesses. 
+This summary data is impractical for data analysis and has been exclused from the set of data. The summary table is reproduced below:
 
-####Source
+| State | Name of Tax | Range of Rates |
+| --- | --- | --- |
+| Del. | Manufacturers' & Merchants' License Tax | 0.0996% - 0.7468% |
+| Ohio | Commercial Activities Tax (CAT) | 0.26% |
+| Tex. | Margin Tax | 0.475% - 0.950% |
+| Va. | Business/Professional/Occupational License Tax (BPOL) | 0.02% - 0.58% |
+| Wash. | Business & Occupation Tax (B&O) | 0.13% - 3.3% |
 
-Commerce Clearing House; state revenue departments; Weldon
-Cooper Center for Public Service.
+#### Note
+
+Virginia’s tax is locally levied and rates vary by business and jurisdiction. Approximately half of counties do not levy the tax. Some counties instead levy a capital stock tax.
+
+#### Source
+
+Commerce Clearing House; state revenue departments; Weldon Cooper Center for Public Service.
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal State and Local sales tax rates . |
+| `stateSalesTaxRate` | State-level sales tax rate. |
+| `avgLocalSalesTaxRate` | Average local-level sales tax rates across a state. |
+| `combinedStateLocalSalesTaxRate` | Sum of `stateSalesTaxRate` and `avgLocalSalesTaxRate`. |
 
-###Note
+#### Notes
 
-D.C.’s rank does not affect other states’ rankings, but the figure in
-parentheses indicates where it would rank if included.
-Source: Sales Tax Clearing House; Tax Foundation.
+City, county, and municipal rates vary. These rates are weighted by population to compute an average local tax rate.
 
-####Source
+Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1%), Utah (1.25%), and Virginia (1%). We include these in their state sales taxes.
+
+The sales taxes in Hawaii, New Mexico, and South Dakota have broad bases that include many business-to-business services.
+
+Due to data limitations, the table does not include sales taxes in local resort areas in Montana.
+
+Some counties in New Jersey are not subject to statewide sales tax rates and collect a local rate of 3.5%. Their average local score is represented as a negative.
+
+#### Source
 
 Source: Sales Tax Clearing House; Tax Foundation.
 
@@ -492,12 +525,15 @@ Source: Sales Tax Clearing House; Tax Foundation.
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `collectionsPerCapita` | Total nominal State Sales tax collections per Capita . |
+| `collectionsPerCapita` | Total nominal state sales tax collections per capita. |
 
-####Source
+#### Notes
 
-Source: U.S. Census Bureau; Tax Foundation 
+The sales taxes in Hawaii, New Mexico, and South Dakota have broad bases that include many business-to-business services.
 
+#### Source
+
+Source: U.S. Census Bureau; Tax Foundation
 
 ### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
 
