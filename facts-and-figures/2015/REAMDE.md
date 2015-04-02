@@ -518,6 +518,8 @@ Some counties in New Jersey are not subject to statewide sales tax rates and col
 
 Source: Sales Tax Clearing House; Tax Foundation.
 
+Fiscal Year 2013
+
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
 
 | Name | Description |
@@ -533,15 +535,67 @@ The sales taxes in Hawaii, New Mexico, and South Dakota have broad bases that in
 
 #### Source
 
-Source: U.S. Census Bureau; Tax Foundation
+U.S. Census Bureau; Tax Foundation
 
 ### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
 
+Fiscal Year 2012
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total nominal state and local sales tax collections in a state per capita. |
+
+#### Notes
+
+Some states levy gross receipts taxes in addition to sales taxes. The U.S. Census Bureau includes some of these in sales tax collections data. See [Table 18](#table18) for information on gross receipts taxes.
+
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table22"></a>Table 22. State Gasoline Tax Rates Per Gallon
+
+January 1, 2015
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `exciseTax` | The calculated dollar per gallon excise tax on gasoline. |
+| `otherTax` | Other taxes in dollars applied per gallon of gasoline. |
+
+#### Notes
+
+The [American Petroleum Institute](http://www.api.org/) (API) has developed a methodology for determining the average tax rate on a gallon of fuel. Rates may include any of the following: excise taxes, environmental fees, storage tank taxes, other fees or taxes, and general sales taxes. In states where gasoline is subject to the general sales tax, or where the fuel tax is based on the average sale price, the average rate determined by API is sensitive to changes in the price of gasoline. California, Connecticut, Georgia, Illinois, Indiana, Michigan, and New York fully or partially apply general sales taxes to the purchase of gasoline.
+
+#### Source
+
+[American Pretroleum Institute](http://www.api.org/oil-and-natural-gas-overview/industry-economics/fuel-taxes)
 
 ### <a id="table23"></a>Table 23. Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes
 
 ### <a id="table24"></a>Table 24. State Cigarette Excise Tax Rates (Dollars Per 20-Pack)
+
+January 1, 2015
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `taxPerPack` | The dollar per 20-pack excise tax on cigarettes. |
+
+#### Notes
+
+Local taxes are not included and can be substantial.
+
+#### Source
+
+RJ Reynolds; state revenue departments; Tax Foundation
 
 ### <a id="table25"></a>Table 25. State Spirits Excise Tax Rates (Dollars Per Gallon)
 
