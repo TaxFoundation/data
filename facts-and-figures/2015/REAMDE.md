@@ -83,9 +83,9 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 
 Rankings based on snapshot date of July 1, 2014.
 
-The State Business Tax Climate Index compares states on over 100 different variables in five important areas of taxation (corporate taxes, individual income taxes, sales taxes, unemployment insurance taxes, and property taxes) and then adding the results up to a final, overall ranking. This approach rewards states on particularly strong aspects of their tax systems (or penalizes them on particularly weak aspects) while also measuring the general competitiveness of their overall tax systems. The result is a score that can be compared to other states’ scores.
+The State Business Tax Climate Index compares states on over 100 different variables in five important areas of taxation (corporate taxes, individual income taxes, sales taxes, unemployment insurance taxes, and property taxes) and then adding the results up to a final, overall ranking. This approach rewards states on particularly strong aspects of their tax systems (or penalizes them on particularly weak aspects) while also measuring the general competitiveness of their overall tax systems. The result is a score that can be compared to other states' scores.
 
-A rank of 1 indicates the state’s tax system is more favorable for business; a rank of 50 indicates the state’s tax system is less favorable for business. Snapshot data is law as of July 1, 2014. Component rankings do not average to total. States without a given tax are ranked equally as number 1 in that component. D.C.’s rank does not affect other states’ rankings, since it is not a state. The D.C. rank is only for reference purposes.
+A rank of 1 indicates the state's tax system is more favorable for business; a rank of 50 indicates the state's tax system is less favorable for business. Snapshot data is law as of July 1, 2014. Component rankings do not average to total. States without a given tax are ranked equally as number 1 in that component. D.C.'s rank does not affect other states' rankings, since it is not a state. The D.C. rank is only for reference purposes.
 
 #### Explanation of Data
 
@@ -127,7 +127,7 @@ U.S. Census Bureau; Tax Foundation
 
 Fiscal Year 2013
 
-The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
+The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau's "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
 
 #### Explanation of Data
 
@@ -165,7 +165,7 @@ U.S. Census Bureau; Tax Foundation
 
 Fiscal Year 2012
 
-The total nominal revenue for state and local governments collected within a state, divided by the individual population. Revenue refers to the U.S. Census Bureau’s "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue.
+The total nominal revenue for state and local governments collected within a state, divided by the individual population. Revenue refers to the U.S. Census Bureau's "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue.
 
 #### Explanation of Data
 
@@ -197,7 +197,7 @@ Fiscal Year 2012
 | `corporateTax` | The percentage of state and local tax collections coming from corporate income taxes. |
 | `otherTax` | The percentage of state and local tax collections coming from other taxes. |
 
-Other Taxes include excise taxes (such as those on alcohol, tobacco, motor vehicles, utilities, and licenses), severance taxes, stock transfer taxes, estate and gift taxes, and other miscellaneous taxes. This table classifies Washington’s Business & Occupation (B&O) Tax under Other Taxes. U.S. Census Bureau classifies this as a general sales tax.
+Other Taxes include excise taxes (such as those on alcohol, tobacco, motor vehicles, utilities, and licenses), severance taxes, stock transfer taxes, estate and gift taxes, and other miscellaneous taxes. This table classifies Washington's Business & Occupation (B&O) Tax under Other Taxes. U.S. Census Bureau classifies this as a general sales tax.
 
 Percentages may not add to 100% due to rounding
 
@@ -205,7 +205,7 @@ Percentages may not add to 100% due to rounding
 
 Fiscal Year 2013
 
-Figures are calculated by dividing each state’s "Intergovernmental Revenue" by its "General Revenue."
+Figures are calculated by dividing each state's "Intergovernmental Revenue" by its "General Revenue."
 
 #### Explanation of Data
 
@@ -339,36 +339,36 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 
 | State | Notes |
 | --- | --- |
-| Alabama | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each juridiction is 0.5%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Alabama | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each juridiction is 0.5%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Alaska | No individual income tax. |
 | Arizona | Shows 2015 rates but 2014 brackets, because the state began indexing in the 2015 tax year. |
 | Arkansas | Rates apply to regular tax table. A special tax table is available for low income taxpayers which reduces their tax payments. Bracket levels adjusted for inflation each year. |
 | California | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
 | Colorado | Tax levied on federal taxable income. |
-| Delaware | Local income taxes are excluded; the average in each jurisdiction is 0.63%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Delaware | Local income taxes are excluded; the average in each jurisdiction is 0.63%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Florida | No individual income tax. |
 | Idaho | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
 | Illinois | Tax levied on federal adjusted gross income with modifications. |
-| Indiana | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.49%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Indiana | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.49%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Iowa | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Kansas | Local income taxes are excluded; the average in each jurisdiction is 0.01%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
-| Kentucky | Local income taxes are excluded; the average in each jurisdiction is 2.08%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Kansas | Local income taxes are excluded; the average in each jurisdiction is 0.01%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
+| Kentucky | Local income taxes are excluded; the average in each jurisdiction is 2.08%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Louisiana | Allow some or all of federal income tax paid to be deducted from state taxable income. |
 | Maine | Bracket levels adjusted for inflation each year. Has suspended inflation indexing for the years 2014-2015. |
-| Maryland | Local income taxes are excluded; the average in each jurisdiction is 2.88%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
-| Michigan | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.7%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Maryland | Local income taxes are excluded; the average in each jurisdiction is 2.88%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
+| Michigan | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.7%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Minnesota | Bracket levels adjusted for inflation each year. |
-| Missouri | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Missouri | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Montana | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. |
 | Nebraska | Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
 | Nevada | No individual income tax. |
 | New Hampshire | Tax applies to interest and dividend income only. |
-| New Jersey | Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
-| New York | Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.11%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
+| New Jersey | Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
+| New York | Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.11%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
 | North Dakota | Bracket levels adjusted for inflation each year. |
-| Ohio | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.25%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. Has suspended inflation indexing for the years 2013-2015. |
-| Oregon | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.36%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
-| Pennsylvania | Local income taxes are excluded; the average in each jurisdiction is 2.96%. Weighted local rates are from the Tax Foundation’s 2015 State Business Tax Climate Index. |
+| Ohio | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.25%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. Has suspended inflation indexing for the years 2013-2015. |
+| Oregon | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.36%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
+| Pennsylvania | Local income taxes are excluded; the average in each jurisdiction is 2.96%. Weighted local rates are from the Tax Foundation's 2015 State Business Tax Climate Index. |
 | Rhode Island | Bracket levels adjusted for inflation each year. |
 | South Carolina | Bracket levels adjusted for inflation each year. |
 | South Dakota | No individual income tax. |
@@ -450,6 +450,8 @@ U.S. Census Bureau; Tax Foundation
 
 Fiscal Year 2012
 
+#### Explanation of Data
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
@@ -485,13 +487,15 @@ This summary data is impractical for data analysis and has been exclused from th
 
 #### Note
 
-Virginia’s tax is locally levied and rates vary by business and jurisdiction. Approximately half of counties do not levy the tax. Some counties instead levy a capital stock tax.
+Virginia's tax is locally levied and rates vary by business and jurisdiction. Approximately half of counties do not levy the tax. Some counties instead levy a capital stock tax.
 
 #### Source
 
 Commerce Clearing House; state revenue departments; Weldon Cooper Center for Public Service.
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
+
+#### Explanation of Data
 
 | Name | Description |
 | --- | --- |
@@ -522,6 +526,8 @@ Fiscal Year 2013
 
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
 
+#### Explanation of Data
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
@@ -541,6 +547,8 @@ U.S. Census Bureau; Tax Foundation
 
 Fiscal Year 2012
 
+#### Explanation of Data
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
@@ -559,6 +567,8 @@ U.S. Census Bureau; Tax Foundation
 ### <a id="table22"></a>Table 22. State Gasoline Tax Rates Per Gallon
 
 January 1, 2015
+
+#### Explanation of Data
 
 | Name | Description |
 | --- | --- |
@@ -582,6 +592,8 @@ The [American Petroleum Institute](http://www.api.org/) (API) has developed a me
 
 January 1, 2015
 
+#### Explanation of Data
+
 | Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
@@ -599,7 +611,87 @@ RJ Reynolds; state revenue departments; Tax Foundation
 
 ### <a id="table25"></a>Table 25. State Spirits Excise Tax Rates (Dollars Per Gallon)
 
+January 1, 2015
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `taxPerGallon` | The dollar per gallon excise tax on spirits. |
+
+#### Notes
+
+Rates are those applicable to off-premise sales of 40% alcohol by volume (a.b.v.) distilled spirits in 750ml containers.
+
+| State | Notes |
+| --- | --- |
+| Alabama | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Alaska | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Arkansas | Includes case fees and/or bottle fees which may vary with the size of container. Includes sales taxes specific to alcoholic beverages. |
+| California | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Connecticut | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Delaware | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Distrcit of Columbia | Includes sales taxes specific to alcoholic beverages. |
+| Florida | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Georgia | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Idaho | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Illinois | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Indiana | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Iowa | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Kentucky | Includes the wholesale tax rate of 11%, converted to a gallonage excise tax rate. |
+| Louisiana | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Maine | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Maryland | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). Includes sales taxes specific to alcoholic beverages. |
+| Massachusetts | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Michigan | Includes sales taxes specific to alcoholic beverages. |
+| Minnesota | Includes case fees and/or bottle fees which may vary with the size of container. Includes sales taxes specific to alcoholic beverages. |
+| Mississippi | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Montana | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Nevada | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| New Hampshire | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| New York | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| North Carolina | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| North Dakota | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). Includes sales taxes specific to alcoholic beverages. |
+| Ohio | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Oregon | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Pennsylvania | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Rhode Island | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| South Carolina | Includes case fees and/or bottle fees which may vary with the size of container. |
+| South Dakota | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). Includes sales taxes specific to alcoholic beverages. |
+| Tennessee | Includes case fees and/or bottle fees which may vary with the size of container. |
+| Texas | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
+| Utah | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Vermont | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Virginia | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Washington | Includes sales taxes specific to alcoholic beverages. Includes the retail (17%) and distributor (10%) license fees, converted into a gallonage excise tax rate. |
+| West Virginia | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+| Wyoming | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+
+#### Source
+
+Distilled Spirits Council of the United States; Tax Foundation.
+
 ### <a id="table26"></a>Table 26. State Wine Excise Tax Rates (Dollars Per Gallon)
+
+January 1, 2015
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `taxPerGallon` | The dollar per gallon excise tax on wine. |
+
+#### Notes
+
+Rates are those applicable to off-premise sales of 11% alcohol by volume (a.b.v.) non-carbonated wine in 750ml containers. States may apply different rates to other wines, such as sparkling wines. Federal rates vary by alcohol content and type of wine, ranging up to $3.15 per gallon for 21-24 percent alcohol and $3.40 for sparkling wine.
+
+#### Source
 
 ### <a id="table27"></a>Table 27. State Beer Excise Tax Rates (Dollars Per Gallon)
 
