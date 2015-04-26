@@ -885,6 +885,7 @@ Fiscal Year 2012
 
 #### Explanation of Data
 
+| Name | Description |
 | --- | --- |
 | `id` | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
