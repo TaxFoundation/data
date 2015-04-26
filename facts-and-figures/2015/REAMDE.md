@@ -805,6 +805,8 @@ Includes the wholesale tax rate of 11%, converted into a gallonage excise tax ra
 
 #### Source
 
+Distilled Spirits Council of the United States; Tax Foundation.
+
 ### <a id="table27"></a>Table 27. State Beer Excise Tax Rates (Dollars Per Gallon)
 
 January 1, 2015
