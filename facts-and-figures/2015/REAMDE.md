@@ -1087,6 +1087,10 @@ Inheritance taxes are levied on the posthumous transfer of assets based on relat
 
 Maryland and New Jersey have both an estate tax and an inheritance tax. See [Table 34](#table34).
 
+#### Source
+
+Family Business Coalition; state statutes.
+
 ### <a id="table36"></a>Table 36. State Debt Per Capita
 
 Fiscal Year 2012
