@@ -419,6 +419,41 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table15"></a>Table 15. State Corporate Income Tax Rates
 
+These data summarize state-level marginal corporate income tax rates as of January 1, 2015. Dollar amounts listed are in nominal dollars.
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
+| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `incomeTaxRate` | The marginal rate applied to income equal to or greater than `incomeGreaterThan`, but not above `incomeNotGreaterThan`. |
+| `incomeGreaterThan` | Income above this amount is taxed at the accompanying `incomeTaxRate`, up to `incomeNotGreaterThan`. Values are in nominal dollars. |
+| `incomeNotGreaterThan` | Upper limit to the amount of income taxed at a particular marginal `incomeTaxRate`. Values are in nominal dollars. |
+
+#### Notes
+
+In addition to regular corporate income taxes, many states impose other taxes on corporations such as gross receipts taxes and franchise taxes. Some states also impose an alternative minimum tax and special rates on financial institutions. These are not included here.
+
+Arkansas assesses a surcharge of 3% of the taxpayer's total liability.
+
+Connecticut's rate includes a 20% surtax, which effectively increases the rate from 7.5% to 9%. Surtax is required by businesses with at least $100 million annual gross income.
+
+Ohio, Texas, and Washington do not have a corporate income tax but do have a gross receipts tax with rates not strictly comparable to corporate income tax rates. See Table 18 for more information. Delaware and Virginia have a gross receipts tax in addition to the corporate income tax.
+
+Illinois' rate includes two separate corporate income taxes, one at a 5.25% rate and one at a 2.5% rate.
+
+The tax rate in Indiana will decrease to 6.5% on July 1, 2015.
+
+In New Jersey, corporations with entire net income greater than $100,000 pay 9% on all taxable income, companies with entire net income greater than $50,000 and less than or equal to $100,000 pay 7.5% on all taxable income, and companies with entire net income less than or equal to $50,000 pay 6.5% on all taxable income.
+
+The tax rate in New Mexico will decrease to 6.6% in 2016.
+
+#### Source
+
+State tax statutes, forms, and instructions; Commerce Clearing House; Tax Foundation.
+
 ### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
 
 Fiscal Year 2013
@@ -491,6 +526,8 @@ Commerce Clearing House; state revenue departments; Weldon Cooper Center for Pub
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
 
+January 1, 2015
+
 #### Explanation of Data
 
 | Name | Description |
@@ -521,6 +558,8 @@ Source: Sales Tax Clearing House; Tax Foundation.
 Fiscal Year 2013
 
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
+
+Fiscal Year 2013
 
 #### Explanation of Data
 
@@ -842,9 +881,23 @@ Tax Foundation, Overreaching on Obesity: Governments Consider New Taxes on Soda 
 
 ### <a id="table30"></a>Table 30. State and Local Excise Tax Collections Per Capita, FY 2012
 
+Fiscal Year 2012
+
+#### Explanation of Data
+
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `collectionsPerCapita` | Total per capita excise tax collections in nominal dollars. |
+
+#### Notes
+
 Excise taxes are sales and other special taxes imposed on select items, such as tobacco products, alcoholic beverages, and motor fuels. This table also includes excise taxes, or selective sales taxes, on amusements, insurance premiums, parimutuels, and public utilities.
 
-Source: U.S. Census Bureau; Tax Foundation.
+#### Source
+
+U.S. Census Bureau; Tax Foundation.
 
 ### <a id="table31"></a>Table 31. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value
 
@@ -1026,7 +1079,9 @@ Parent-to-child transfers to children 21 years and under, transfers of farms and
 
 #### Notes
 
-Maryland and New Jersey have both an estate tax and an inheritance tax. See table 34.
+Inheritance taxes are levied on the posthumous transfer of assets based on relationship to the decedent. Generally, Class A beneficiaries are spouses, children, and often siblings. Class B beneficiaries are non-immediate family members. Class C beneficiaries are non-family members. For inheritance taxes, unlike estate taxes, the term “exemption” applies to the size of the gift itself, not the total size of the estate.
+
+Maryland and New Jersey have both an estate tax and an inheritance tax. See [Table 34](#table34).
 
 ### <a id="table36"></a>Table 36. State Debt Per Capita
 
@@ -1043,7 +1098,7 @@ Fiscal Year 2012
 
 #### Notes
 
-Debt at end of fiscal year. See People Per Household for average people per household by state. DC is included only in state-local combined data. 
+Debt at end of fiscal year. See People Per Household for average people per household by state. DC is included only in state-local combined data.
 
 #### Source
 
@@ -1085,7 +1140,7 @@ Calendar Year 2013
 
 #### Notes
 
-Per capita personal income is total personal income divided by total midyear population. All dollar estimates are in current dollars (not adjusted for inflation). 
+Per capita personal income is total personal income divided by total midyear population. All dollar estimates are in current dollars (not adjusted for inflation).
 
 #### Source
 
