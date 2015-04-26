@@ -1016,6 +1016,9 @@ Some sources (including the Tennessee Department of Revenue) list Tennessee’s 
 
 New York's exemption increases to $3,125,000 on April 1, 2015.
 
+#### Source
+
+Family Business Coalition; state statutes.
 
 ### <a id="table35"></a>Table 35. Inheritance Taxes and Exemptions
 
