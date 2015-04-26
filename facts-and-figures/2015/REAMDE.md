@@ -207,6 +207,10 @@ Other Taxes include excise taxes (such as those on alcohol, tobacco, motor vehic
 
 Percentages may not add to 100% due to rounding
 
+#### Source
+
+U.S. Census Bureau; Tax Foundation
+
 ### <a id="table09"></a>Table 9. Federal Aid as a Percentage of State Revenue
 
 Fiscal Year 2013
