@@ -81,6 +81,10 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 | `burden` | The average percentage of per capita income forgone to state and local taxes. |
 | `totalTaxBurdenPerCapita` | The total income per capita forgone to state and local taxes. |
 
+#### Source
+
+[Tax Foundation, Annual State-Local Tax Burdens FY 2011 (April 2014)](http://taxfoundation.org/article/annual-state-local-tax-burden-ranking-fy-2011).
+
 ### <a id="table03"></a>Table 3. State Business Tax Climate Index
 
 Rankings based on snapshot date of July 1, 2014.
