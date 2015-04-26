@@ -393,6 +393,10 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 | Wisconsin | Bracket levels adjusted for inflation each year. |
 | Wyoming | No individual income tax. |
 
+#### Source
+
+State tax statutes, forms, and instructions; Commerce Clearing House; Tax Foundation.
+
 ### <a id="table13"></a>Table 13. State Individual Income Tax Collections Per Capita
 
 Fiscal Year 2013
