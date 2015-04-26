@@ -657,7 +657,7 @@ Fiscal Year 2012
 
 #### Notes
 
-Table includes state and local road expenses but excludes federal aid. For more information, see Tax Foundation Fiscal Fact No. 410 (Jan. 2014).
+Table includes state and local road expenses but excludes federal aid. For more information, see [Tax Foundation Fiscal Fact No. 410 (Jan. 2014)](http://taxfoundation.org/sites/default/files/docs/ff410.pdf).
 
 #### Source
 
