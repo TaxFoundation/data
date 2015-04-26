@@ -48,6 +48,8 @@ Published March 10, 2015.
 
 ### <a id="table01"></a>Table 1. Tax Freedom Day 2014
 
+Calendar year 2014.
+
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
 
 #### Explanation of Data
@@ -58,6 +60,10 @@ Tax Freedom Day is the day when the nation as a whole has earned enough money to
 | `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
 | `taxFreedomDay` | The date of Tax Freedom Day in [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) format in the state for the year 2014. |
+
+#### Source
+
+[Tax Foundation, Tax Freedom Day 2014 (April 2014), TaxFreedomDay.org](http://taxfoundation.org/article/tax-freedom-day-2014-april-21-three-days-later-last-year).
 
 ### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
