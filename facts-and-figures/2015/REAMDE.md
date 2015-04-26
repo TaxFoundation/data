@@ -801,6 +801,25 @@ Includes the wholesale tax rate of 17%, converted into a gallonage excise tax ra
 
 ### <a id="table28"></a>Table 28. State & Local Cell Phone Tax Rates
 
+July 1, 2014
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `averageCellTaxRate` | The average combined state and local cell service tax rate as a percentage. |
+
+#### Notes
+
+The local tax rate is calculated as the average of the tax in the largest city and the capital city.
+
+#### Source
+
+Scott Mackey and Joseph Henchman, Wireless Taxation in the United States 2014, Tax Foundation Fiscal Fact No. 441 (Oct. 2014), based on methodology from Council on State Taxation
+
 ### <a id="table29"></a>Table 29. Sales Tax Treatment of Groceries, Candy, and Soda
 
 As of January 1, 2015
