@@ -328,6 +328,10 @@ In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone,
 | Liq. Natural Gas | 24.3¢/gallon |
 | Surface Coal | 4.4% or $1.10/ton |
 
+#### Source
+
+Internal Revenue Service; Commerce Clearing House; American Petroleum Institute; Alcohol and Tobacco Tax and Trade Bureau; Tax Foundation.
+
 ### <a id="table12"></a>Table 12. State Indvidual Income Tax Rates
 
 These data summarize state-level marginal income tax rates for US individuals as of January 1, 2015. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
