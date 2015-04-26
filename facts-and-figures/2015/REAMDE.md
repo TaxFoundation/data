@@ -858,6 +858,10 @@ Includes case fees and/or bottle fees which may vary with the size of container.
 Includes the wholesale tax rate of 17%, converted into a gallonage excise tax rate.
 * Tennessee
 
+#### Source
+
+Distilled Spirits Council of the United States; Tax Foundation.
+
 ### <a id="table28"></a>Table 28. State & Local Cell Phone Tax Rates
 
 July 1, 2014
