@@ -889,6 +889,7 @@ January 1, 2015
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
 | State | Tax Rate | Max Payment |
+| --- | --- | --- |
 | Alaska | 0.175% | $15,000 |
 | Arkansas | 0.3% | Unlimited |
 | Connecticut) | 0.37% | $1,000,000 |
@@ -935,6 +936,7 @@ January 1, 2015
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
 | State | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
 | Connecticut | $2,000,000 | 7.2% - 12.0% |
 | Delaware  | $5,430,000 | 0.8% - 16.0% |
 | Hawaii | $5,430,000 | 0.8% - 16.0% |
@@ -967,7 +969,64 @@ January 1, 2015
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
+#### Iowa
+| Heir type | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
+| Class A | 100% Exempt | 0% |
+| Class B | No Exemption | 5% - 10% |
+| Class C | No Exemption | 10% - 15% |
+| Class D | No Exemption | 15% |
+| Class E | No Exemption | 10% |
+| Class F | No Exemption | 5% |
+| Class G | 100% Exempt | 0% |
 
+Class D is for-profit organizations; Class E is foreign charitable organizations; Class F is unknown heirs; and Class G is recognized charities.
+
+#### Kentucky
+| Heir type | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
+| Class A | 100% Exempt | 0% |
+| Class B | $1,000 | 4% - 16% |
+| Class C | $500 | 6% - 16% |
+
+#### Maryland
+| Heir type | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
+| Spouse/Lineal Heirs | 100% Exempt | 0% |
+| All others | No Exemption | 10% |
+
+#### Nebraska
+| Heir type | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
+| Immediate Relative | $40,000 | 1% |
+| Remote Relative | $15,000 | 13% |
+| All others | $10,000 | 15% |
+
+Nebraska's inheritance tax is levied at the county level.
+
+#### New Jersey
+| Heir type | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
+| Class A | 100% Exempt | 0% |
+| Class C | $25,000 | 11% - 16% |
+| Class D | $500 | 15% - 16% |
+| Class E | 100% Exempt | 0% |
+
+New Jersey's inheritance tax only applies to estates over $1M. Class E is charitable organizations.
+
+#### Pennsylvania
+| Heir type | Exemption | Rate (Min. to Max.) |
+| --- | --- | --- |
+| Spouses | 100% Exempt | 0% |
+| Lineal Heirs | No Exemption | 4.50% |
+| Siblings | No Exemption | 12% |
+| Others | No Exemption | 15% |
+
+Parent-to-child transfers to children 21 years and under, transfers of farms and farming equipment, and transfers of some family-owned businesses are exempt.
+
+#### Notes
+
+Maryland and New Jersey have both an estate tax and an inheritance tax. See table 34.
 
 ### <a id="table36"></a>Table 36. State Debt Per Capita
 
