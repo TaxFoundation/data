@@ -1011,6 +1011,10 @@ Tax is being phased out.
 * Missouri
 * New York
 
+#### Source
+
+State statutes; Commerce Clearing House
+
 ### <a id="table34"></a>Table 34. Estate Tax Rates and Exemptions
 
 January 1, 2015
