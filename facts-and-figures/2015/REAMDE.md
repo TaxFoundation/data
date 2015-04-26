@@ -588,6 +588,24 @@ The [American Petroleum Institute](http://www.api.org/) (API) has developed a me
 
 ### <a id="table23"></a>Table 23. Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes
 
+Fiscal Year 2012
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `tollsAndUserFees` | Percentage of highway spending covered by tolls and user fees. |
+| `gasolineAndLicenseTaxes` | Percentage of highway spending covered by gasoline taxes and license fees. |
+
+#### Notes
+
+Table includes state and local road expenses but excludes federal aid. For more information, see Tax Foundation Fiscal Fact No. 410 (Jan. 2014).
+
+#### Source
+
+U.S. Census Bureau; Federal Highway Administration; Tax Foundation.
+
 ### <a id="table24"></a>Table 24. State Cigarette Excise Tax Rates (Dollars Per 20-Pack)
 
 January 1, 2015
@@ -626,49 +644,64 @@ January 1, 2015
 
 Rates are those applicable to off-premise sales of 40% alcohol by volume (a.b.v.) distilled spirits in 750ml containers.
 
-| State | Notes |
-| --- | --- |
-| Alabama | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Alaska | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Arkansas | Includes case fees and/or bottle fees which may vary with the size of container. Includes sales taxes specific to alcoholic beverages. |
-| California | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Connecticut | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Delaware | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Distrcit of Columbia | Includes sales taxes specific to alcoholic beverages. |
-| Florida | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Georgia | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Idaho | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Illinois | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Indiana | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Iowa | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Kentucky | Includes the wholesale tax rate of 11%, converted to a gallonage excise tax rate. |
-| Louisiana | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Maine | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Maryland | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). Includes sales taxes specific to alcoholic beverages. |
-| Massachusetts | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Michigan | Includes sales taxes specific to alcoholic beverages. |
-| Minnesota | Includes case fees and/or bottle fees which may vary with the size of container. Includes sales taxes specific to alcoholic beverages. |
-| Mississippi | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Montana | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Nevada | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| New Hampshire | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| New York | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| North Carolina | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| North Dakota | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). Includes sales taxes specific to alcoholic beverages. |
-| Ohio | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Oregon | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Pennsylvania | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Rhode Island | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| South Carolina | Includes case fees and/or bottle fees which may vary with the size of container. |
-| South Dakota | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). Includes sales taxes specific to alcoholic beverages. |
-| Tennessee | Includes case fees and/or bottle fees which may vary with the size of container. |
-| Texas | Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines). |
-| Utah | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Vermont | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Virginia | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Washington | Includes sales taxes specific to alcoholic beverages. Includes the retail (17%) and distributor (10%) license fees, converted into a gallonage excise tax rate. |
-| West Virginia | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
-| Wyoming | States where the government controls sales. In these "control states," products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States. |
+Different rates are also applicable according to alcohol content, place of production, size of container, or place purchased (on- or off-premise or onboard airlines).
+* Alaska
+* California
+* Connecticut
+* Delaware
+* Florida
+* Georgia
+* Illinois
+* Indiana
+* Louisiana
+* Maryland
+* Massachusetts
+* Nevada
+* New York
+* North Dakota
+* Rhode Island
+* South Dakota
+* Texas
+
+States where the government controls sales. In these “control states,” products are subject to ad valorem mark-up and excise taxes. The excise tax rate is calculated using a methodology developed by the Distilled Spirits Council of the United States.
+* Alaska
+* Idaho
+* Iowa
+* Maine
+* Michigan
+* Mississippi
+* Montana
+* New Hampshire
+* North Carolina
+* Ohio
+* Oregon
+* Pennsylvania
+* Utah
+* Vermont
+* Virginia
+* West Virginia
+* Wyoming
+
+Includes the wholesale tax rate of 11%, converted to a gallonage excise tax rate.
+* Kentucky
+
+Includes case fees and/or bottle fees which may vary with the size of container.
+* Arkansas
+* Minnesota
+* South Carolina
+* Tennessee
+
+Includes sales taxes specific to alcoholic beverages.
+* Arkansas
+* Maryland
+* Minnesota
+* North Dakota
+* South Dakota
+* Washington
+* District of Columbia
+
+Includes the retail (17%) and distributor (10%) license fees, converted into a gallonage excise tax rate.
+* Washington
 
 #### Source
 
@@ -691,9 +724,80 @@ January 1, 2015
 
 Rates are those applicable to off-premise sales of 11% alcohol by volume (a.b.v.) non-carbonated wine in 750ml containers. States may apply different rates to other wines, such as sparkling wines. Federal rates vary by alcohol content and type of wine, ranging up to $3.15 per gallon for 21-24 percent alcohol and $3.40 for sparkling wine.
 
+Control states, where the government controls all sales. Products can be subject to ad valorem mark-up and excise taxes.
+* Mississippi
+* New Hampshire
+* Pennsylvania
+* Utah
+* Wyoming
+
+Includes case fees and/or bottle fees which may vary with size of container.
+* Arkansas
+* Minnesota
+* Tennessee
+
+Includes sales taxes specific to alcoholic beverages.
+* Arkansas
+* Maryland
+* Minnesota
+* South Dakota
+* District of Columbia
+
+Includes the wholesale tax rate of 11%, converted into a gallonage excise tax rate.
+* Kentucky
+
 #### Source
 
 ### <a id="table27"></a>Table 27. State Beer Excise Tax Rates (Dollars Per Gallon)
+
+January 1, 2015
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `taxPerGallon` | The dollar per gallon excise tax on beer. |
+
+#### Notes
+
+Rates are those applicable to off-premise sales of 4.7% a.b.v. beer in 12 ounce containers.
+
+Local excise taxes are excluded.
+* Florida
+* Georgia
+* Hawaii
+* Idaho
+* Kansas
+* Minnesoata
+* North Carolina
+* North Dakota
+* Ohio
+* Oklahoma
+* Texas
+* Utah
+* Virginia
+* Washington
+* Wisconsin
+
+Includes statewide local tax in Alabama ($0.52) and Georgia ($0.53).
+* Alabama
+* Georgia
+
+Includes sales taxes specific to alcoholic beverages.
+* Arkansas
+* Maryland
+* Minnesota
+* District of Columbia
+
+Includes case fees and/or bottle fees which may vary with the size of container.
+* Arkansas
+* Rhode Island
+
+Includes the wholesale tax rate of 17%, converted into a gallonage excise tax rate.
+* Tennessee
 
 ### <a id="table28"></a>Table 28. State & Local Cell Phone Tax Rates
 
