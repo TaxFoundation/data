@@ -877,7 +877,7 @@ Alaska, Delaware, Montana, New Hampshire, and Oregon have no state-level sales t
 
 #### Source
 
-Tax Foundation, Overreaching on Obesity: Governments Consider New Taxes on Soda and Candy, Tax Foundation SR: 196 (Oct. 2011); Commerce Clearing House.
+Scott Drenkard, [Overreaching on Obesity: Governments Consider New Taxes on Soda and Candy, Tax Foundation SR: 196 (Oct. 2011)](http://taxfoundation.org/article/overreaching-obesity-governments-consider-new-taxes-soda-and-candy); Commerce Clearing House.
 
 ### <a id="table30"></a>Table 30. State and Local Excise Tax Collections Per Capita, FY 2012
 
