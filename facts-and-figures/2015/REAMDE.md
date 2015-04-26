@@ -46,10 +46,6 @@ Published March 10, 2015.
 | 38 | [Income Per Capita By State](#table38) | 2013 | `38-income-per-capita-by-state-fy2013.csv` |
 | 39 | [People Per Household By State](#table39) | 2012-2013 | `39-people-per-household-2012-2013.csv` |
 
-## Notes
-
-These data are in the process of being cleaned and added to Tax Foundation's data repository.
-
 ### <a id="table01"></a>Table 1. Tax Freedom Day 2014
 
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
@@ -888,42 +884,90 @@ U.S. Census Bureau; Tax Foundation.
 
 ### <a id="table33"></a>Table 33. Capital Stock Tax Rates
 
+January 1, 2015
+
+This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
+
+| State | Tax Rate | Max Payment |
+| Alaska | 0.175% | $15,000 |
+| Arkansas | 0.3% | Unlimited |
+| Connecticut) | 0.37% | $1,000,000 |
+| Delaware | 0.0350% | $180,000 |
+| Georgia | See Notes | $5,000 |
+| Illinois | 0.1% | $2,000,000 |
+| Louisiana | 0.3% | Unlimited |
+| Massachusetts | 0.26% | Unlimited |
+| Mississippi | 0.25% | Unlimited |
+| Missouri. | 0.006600% | Unlimited |
+| Nebraska | See Notes | $11,995 |
+| New York | 0.15% | $1,000,000 |
+| North Carolina | 0.15% | Unlimited |
+| Oklahoma | 0.125% | $20,000 |
+| Pennsylvania | 0.045% | Unlimited |
+| South Carolina | 0.1% | Unlimited |
+| Tennessee | 0.25% | Unlimited |
+| Wyoming | 0.02% | Unlimited |
+
+#### Notes
+
+Capital stock taxes are levied on the net assets of a company or its market capitalization.
+
+Taxpayers pay the greater of either corporate income tax liability or capital stock tax liability.
+* Connecticut
+* New York
+* Wyoming
+
+Corporations can pay based on authorized shares method, non-par, or assumed par value.
+* Delaware
+
+Based on a fixed dollar payment schedule. Effective tax rates decrease as taxable capital increases.
+* Georgia
+* Nebraska
+
+Tax is being phased out.
+* Missouri
+* New York
+
 ### <a id="table34"></a>Table 34. Estate Tax Rates and Exemptions
+
+January 1, 2015
+
+This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
+
+| State | Exemption | Rate (Min. to Max.) |
+| Connecticut | $2,000,000 | 7.2% - 12.0% |
+| Delaware  | $5,430,000 | 0.8% - 16.0% |
+| Hawaii | $5,430,000 | 0.8% - 16.0% |
+| Illinois | $4,000,000 | 0.8% - 16.0% |
+| Maine | $2,000,000 | 8.0% - 12.0% |
+| Maryland | $1,500,000 | 16.0% |
+| Massachusetts | $1,000,000 | 0.8% - 16.0% |
+| Minnesota | $1,400,000 | 9.0% - 16.0% |
+| New Jersey | $675,000 | 0.8% - 16.0% |
+| New York | $2,062,500 | 3.06% - 16.0% |
+| Oregon | $1,000,000 | 0.8% - 16.0% |
+| Rhode Island | $1,500,000 | 0.8% - 16.0% |
+| Tennessee | $5,000,000 | 5.5% - 9.5% |
+| Vermont | $2,750,000 | 0.8% - 16.0% |
+| Washington | $2,054,000 | 10.0% - 20.0% |
+| District of Columbia | $1,000,000 | 0.8% - 16.0% |
+
+#### Notes
+
+Maryland and New Jersey have both an estate and an inheritance tax. See [Table 35](#table35).
+
+Some sources (including the Tennessee Department of Revenue) list Tennessee’s estate tax as an inheritance tax, but it functions as an estate tax. The tax phases out by 2016 (no tax in tax year 2016).
+
+New York's exemption increases to $3,125,000 on April 1, 2015.
+
 
 ### <a id="table35"></a>Table 35. Inheritance Taxes and Exemptions
 
-Inheritance taxes are taxes on shares bequeathed estates, with rates varying by the named beneficiary of each share. Only Iowa, Kentucky, Maryland, Nebraska, New Jersey and Pennsylvania levy inheritance taxes.
+January 1, 2015
 
-Iowa exempts estates valued at less than $25,000 and annuites purchased through pension/retirement plans, and levies special rates for certain charitable and non-charitable organizations ([source](http://www.iowa.gov/tax/educate/78517.html)).
-
-Kentucky prorates exemptions for non-resident decedents based on the net estate value based in Kentucky. So, if 20% of the net value of an estate is based in Kentucky, the standard exemption at that bracket is multiplied by 20%.
-
-Maryland and New Jersey also have an estate tax. Nebraska's inheritance tax is levied at the county level. New Jersey's inheritance tax only applies to estates over $1,000,000.
-
-In Pennsylvania, parent-child transfers where the child is under 21, transfers of farms and farming equipment, and transfers of some family-owned businesses are exempt.
-
-#### Explanation of Data
-
-These data are formatted as marginal tax rates. If statues allow for exemptions, this is expressed in the data as a marginal bracket where `estateValueAtLeast` equals 0, `estateValueLessThan` equals the exemption amount, and `estateTaxRate` equals 0.
-
-| Name | Description |
-| --- | --- |
-| `id` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) identifying the state in each record. |
-| `stateAbbr` | The [ANSI code](https://www.census.gov/geo/reference/docs/state.txt) abbreviation for the state in each record. |
-| `stateName` | The full name of the state in each record. |
-| `heirType` | The specific classification of beneficiary. |
-| `estateValueAtLeast` | The minimum value of a share of an estate for a given marginal rate to be applicable. |
-| `estateValueLessThan` | The maximum value of a share of an estate for a given marginal rate to be applicable. Where blank, there is no maximum. |
-| `minimumTax` | Amount of tax paid in a bracket in addition to tax calculated by the marginal rate. |
-| `estateTaxRate` | The marginal rate applied to the size of the share of the estate for a given `heirType`. |
-| `decedentResidency` | Indicates whether the recently deceased was a `resident` or a `nonresident` of a state, which can affect the tax owed. Where blank, residency status does not matter. |
+This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
 
-#### Source
-
-* Iowa: [Iowa Inheritance Tax Rate Schedule](http://www.iowa.gov/tax/forms/60061.pdf)
-* Kentucky: [Kentucky Inheritance and Estate Tax Forms and Instructions](http://revenue.ky.gov/NR/rdonlyres/50722C6D-479E-472C-AF55-FF5BEADABE15/0/92A200P714.pdf)
-* Nebraska: [Direct family inheritance tax rates](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2004), [remote familiy inheritance tax rates](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2005), [charitable exemptions](http://nebraskalegislature.gov/laws/statutes.php?statute=77-2007.04).
 
 ### <a id="table36"></a>Table 36. State Debt Per Capita
 
