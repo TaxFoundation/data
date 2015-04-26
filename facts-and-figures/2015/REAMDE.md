@@ -853,7 +853,7 @@ The local tax rate is calculated as the average of the tax in the largest city a
 
 #### Source
 
-Scott Mackey and Joseph Henchman, Wireless Taxation in the United States 2014, Tax Foundation Fiscal Fact No. 441 (Oct. 2014), based on methodology from Council on State Taxation
+Scott Mackey and Joseph Henchman, [Wireless Taxation in the United States 2014, Tax Foundation Fiscal Fact No. 441 (Oct. 2014)](http://taxfoundation.org/article/wireless-taxation-united-states-2014), based on methodology from Council on State Taxation
 
 ### <a id="table29"></a>Table 29. Sales Tax Treatment of Groceries, Candy, and Soda
 
