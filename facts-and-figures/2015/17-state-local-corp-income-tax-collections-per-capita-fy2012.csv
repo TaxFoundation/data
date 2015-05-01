@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita
+0,US,United States,157
+1,AL,Alabama,86
+2,AK,Alaska,912
+4,AZ,Arizona,100
+5,AR,Arkansas,137
+6,CA,California,210
+8,CO,Colorado,96
+9,CT,Connecticut,175
+10,DE,Delaware,293
+11,DC,District of Columbia,744
+12,FL,Florida,104
+13,GA,Georgia,60
+15,HI,Hawaii,58
+16,ID,Idaho,119
+17,IL,Illinois,272
+18,IN,Indiana,122
+19,IA,Iowa,139
+20,KS,Kansas,110
+21,KY,Kentucky,158
+22,LA,Louisiana,63
+23,ME,Maine,175
+24,MD,Maryland,150
+25,MA,Massachusetts,302
+26,MI,Michigan,81
+27,MN,Minnesota,199
+28,MS,Mississippi,133
+29,MO,Missouri,63
+30,MT,Montana,132
+31,NE,Nebraska,127
+32,NV,Nevada,0
+33,NH,New Hampshire,395
+34,NJ,New Jersey,218
+35,NM,New Mexico,135
+36,NY,New York,539
+37,NC,North Carolina,126
+38,ND,North Dakota,311
+39,OH,Ohio,30
+40,OK,Oklahoma,117
+41,OR,Oregon,125
+42,PA,Pennsylvania,168
+44,RI,Rhode Island,117
+45,SC,South Carolina,54
+46,SD,South Dakota,72
+47,TN,Tennessee,191
+48,TX,Texas,0
+49,UT,Utah,91
+50,VT,Vermont,154
+51,VA,Virginia,103
+53,WA,Washington,0
+54,WV,West Virginia,104
+55,WI,Wisconsin,163
+56,WY,Wyoming,0

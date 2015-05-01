@@ -1,0 +1,53 @@
+id,location,year,burden,totalTaxBurdenPerCapita
+0,United States,2011,0.098,4217
+1,Alabama,2011,0.083,2886
+2,Alaska,2011,0.07,3319
+4,Arizona,2011,0.089,3194
+5,Arkansas,2011,0.103,3405
+6,California,2011,0.114,5136
+8,Colorado,2011,0.09,4220
+9,Connecticut,2011,0.119,7150
+10,Delaware,2011,0.101,4209
+11,District of Columbia,2011,0.097,6641
+12,Florida,2011,0.092,3699
+13,Georgia,2011,0.088,3237
+15,Hawaii,2011,0.096,4259
+16,Idaho,2011,0.095,3189
+17,Illinois,2011,0.102,4658
+18,Indiana,2011,0.095,3385
+19,Iowa,2011,0.093,3740
+20,Kansas,2011,0.094,3849
+21,Kentucky,2011,0.095,3169
+22,Louisiana,2011,0.076,2872
+23,Maine,2011,0.102,3836
+24,Maryland,2011,0.106,5598
+25,Massachusetts,2011,0.103,5586
+26,Michigan,2011,0.096,3505
+27,Minnesota,2011,0.107,4858
+28,Mississippi,2011,0.084,2620
+29,Missouri,2011,0.09,3380
+30,Montana,2011,0.086,3137
+31,Nebraska,2011,0.094,3991
+32,Nevada,2011,0.081,3221
+33,New Hampshire,2011,0.08,3769
+34,New Jersey,2011,0.123,6675
+35,New Mexico,2011,0.086,3044
+36,New York,2011,0.126,6622
+37,North Carolina,2011,0.098,3564
+38,North Dakota,2011,0.088,4057
+39,Ohio,2011,0.097,3687
+40,Oklahoma,2011,0.085,3187
+41,Oregon,2011,0.101,3861
+42,Pennsylvania,2011,0.103,4374
+44,Rhode Island,2011,0.105,4676
+45,South Carolina,2011,0.083,2784
+46,South Dakota,2011,0.071,3052
+47,Tennessee,2011,0.076,2777
+48,Texas,2011,0.075,3088
+49,Utah,2011,0.094,3304
+50,Vermont,2011,0.105,4351
+51,Virginia,2011,0.092,4469
+53,Washington,2011,0.094,4366
+54,West Virginia,2011,0.097,3160
+55,Wisconsin,2011,0.11,4477
+56,Wyoming,2011,0.069,3500

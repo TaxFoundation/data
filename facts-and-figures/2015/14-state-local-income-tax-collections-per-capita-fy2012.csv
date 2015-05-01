@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita
+0,US,United States,983
+1,AL,Alabama,648
+2,AK,Alaska,0
+4,AZ,Arizona,475
+5,AR,Arkansas,816
+6,CA,California,1454
+8,CO,Colorado,946
+9,CT,Connecticut,2053
+10,DE,Delaware,1368
+11,DC,District of Columbia,2379
+12,FL,Florida,0
+13,GA,Georgia,826
+15,HI,Hawaii,1114
+16,ID,Idaho,763
+17,IL,Illinois,1206
+18,IN,Indiana,934
+19,IA,Iowa,1019
+20,KS,Kansas,1006
+21,KY,Kentucky,1060
+22,LA,Louisiana,539
+23,ME,Maine,1086
+24,MD,Maryland,1958
+25,MA,Massachusetts,1804
+26,MI,Michigan,744
+27,MN,Minnesota,1489
+28,MS,Mississippi,503
+29,MO,Missouri,906
+30,MT,Montana,899
+31,NE,Nebraska,994
+32,NV,Nevada,0
+33,NH,New Hampshire,62
+34,NJ,New Jersey,1257
+35,NM,New Mexico,553
+36,NY,New York,2431
+37,NC,North Carolina,1071
+38,ND,North Dakota,624
+39,OH,Ohio,1163
+40,OK,Oklahoma,730
+41,OR,Oregon,1500
+42,PA,Pennsylvania,1122
+44,RI,Rhode Island,1029
+45,SC,South Carolina,659
+46,SD,South Dakota,0
+47,TN,Tennessee,28
+48,TX,Texas,0
+49,UT,Utah,870
+50,VT,Vermont,956
+51,VA,Virginia,1254
+53,WA,Washington,0
+54,WV,West Virginia,946
+55,WI,Wisconsin,1183
+56,WY,Wyoming,0

@@ -1,0 +1,52 @@
+id,stateAbbr,stateName,collectionsPerCapita
+0,US,United States,143
+1,AL,Alabama,79
+2,AK,Alaska,861
+4,AZ,Arizona,100
+5,AR,Arkansas,136
+6,CA,California,196
+8,CO,Colorado,73
+9,CT,Connecticut,159
+10,DE,Delaware,336
+12,FL,Florida,107
+13,GA,Georgia,80
+15,HI,Hawaii,89
+16,ID,Idaho,125
+17,IL,Illinois,347
+18,IN,Indiana,119
+19,IA,Iowa,139
+20,KS,Kansas,133
+21,KY,Kentucky,147
+22,LA,Louisiana,55
+23,ME,Maine,129
+24,MD,Maryland,161
+25,MA,Massachusetts,283
+26,MI,Michigan,91
+27,MN,Minnesota,252
+28,MS,Mississippi,139
+29,MO,Missouri,63
+30,MT,Montana,169
+31,NE,Nebraska,148
+32,NV,Nevada,$0
+33,NH,New Hampshire,418
+34,NJ,New Jersey,257
+35,NM,New Mexico,128
+36,NY,New York,251
+37,NC,North Carolina,131
+38,ND,North Dakota,317
+39,OH,Ohio,23
+40,OK,Oklahoma,153
+41,OR,Oregon,117
+42,PA,Pennsylvania,173
+44,RI,Rhode Island,137
+45,SC,South Carolina,81
+46,SD,South Dakota,44
+47,TN,Tennessee,194
+48,TX,Texas,$0
+49,UT,Utah,115
+50,VT,Vermont,169
+51,VA,Virginia,94
+53,WA,Washington,$0
+54,WV,West Virginia,131
+55,WI,Wisconsin,167
+56,WY,Wyoming,$0
