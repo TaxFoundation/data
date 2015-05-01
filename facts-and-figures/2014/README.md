@@ -4,7 +4,7 @@ Published March 19, 2014.
 
 ## Notes
 
-These data are in the process of being cleaned and added to Tax Foundation's data repository.
+**These data are incomplete. Please see the 2015 data for Facts and Figures instead.**
 
 ### Tax Freedom Day 2013
 
