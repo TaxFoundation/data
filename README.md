@@ -1,6 +1,6 @@
 # Tax Foundation Data
 
-![Tax Foundation Logo](http://taxfoundation.org/sites/taxfoundation.org/files/tf-logo-166x91.gif)
+![Tax Foundation Logo](https://raw.githubusercontent.com/TaxFoundation/brand-assets/master/generated-assets/TaxFoundation-450x270-RGB-noBG-Fullsize.png)
 
 The [Tax Foundation](http://taxfoundation.org) is the nation’s leading independent tax policy research organization. Since 1937, our principled research, insightful analysis, and engaged experts have informed smarter tax policy at the federal, state, and local levels.
 
@@ -12,6 +12,7 @@ For tips on viewing data within GitHub, see [this article](https://help.github.c
 
 | Name | Description | Publication Date | Source |
 | --- | --- | --- | --- |
+| [facts-and-figures](https://github.com/TaxFoundation/data/tree/master/facts-and-figures) | Facts & Figures: How Does Your State Compare? | March 10, 2015 | [Tax Foundation](http://taxfoundation.org/article/facts-figures-2015-how-does-your-state-compare) |
 | [income-tax-rates](https://github.com/TaxFoundation/data/tree/master/income-tax-rates) | US Federal Marginal Income Tax Rates from 1862 to 2014 | November 27, 2013 | [Tax Foundation](http://taxfoundation.org/article/us-federal-individual-income-tax-rates-history-1913-2013-nominal-and-inflation-adjusted-brackets) |
 | [interstate-migrations](https://github.com/TaxFoundation/data/tree/master/interstate-migrations) | Compiled IRS Data on Interstate Migration Inflows, 1992-2011 | August 12, 2014 | [IRS](http://www.irs.gov/uac/SOI-Tax-Stats-Migration-Data) |
 | [real-purchasing-power](https://github.com/TaxFoundation/data/tree/master/real-purchasing-power) | [The Real Value of $100](http://taxfoundation.org/blog/real-value-100-each-state) | August 19, 2014 | [Bureau of Economic Analysis](http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm) |
