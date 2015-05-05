@@ -1089,7 +1089,7 @@ Class D is for-profit organizations; Class E is foreign charitable organizations
 | --- | --- | --- |
 | Immediate Relative | $40,000 | 1% |
 | Remote Relative | $15,000 | 13% |
-| All others | $10,000 | 15% |
+| All others | $10,000 | 18% |
 
 Nebraska's inheritance tax is levied at the county level.
 
