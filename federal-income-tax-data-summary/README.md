@@ -1,6 +1,6 @@
 # Summary of the Latest Federal Income Tax Data
 
-The Internal Revenue Service has recently released new data on individual income taxes for calendar year 2013, showing the number of taxpayers, adjusted gross income, and income tax shares by income percentiles This repository corresponds with our recent report [Summary of the Latest Federal Income Tax Data, 2015 Update](http://taxfoundation.org/article/summary-latest-federal-income-tax-data-2015-update).
+The Internal Revenue Service has recently released new data on individual income taxes for calendar year 2013, showing the number of taxpayers, adjusted gross income, and income tax shares by income percentiles. This repository corresponds with our recent report [Summary of the Latest Federal Income Tax Data, 2015 Update](http://taxfoundation.org/article/summary-latest-federal-income-tax-data-2015-update).
 
 Tables included in this dataset.
 
