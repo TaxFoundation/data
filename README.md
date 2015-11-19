@@ -1,6 +1,6 @@
 # Tax Foundation Data
 
-![Tax Foundation Logo](https://raw.githubusercontent.com/TaxFoundation/brand-assets/master/generated-assets/TaxFoundation-450x270-RGB-noBG-Fullsize.png)
+![Tax Foundation Logo](https://raw.githubusercontent.com/TaxFoundation/brand-assets/master/for-web/TaxFoundation-450x270.png)
 
 The [Tax Foundation](http://taxfoundation.org) is the nation’s leading independent tax policy research organization. Since 1937, our principled research, insightful analysis, and engaged experts have informed smarter tax policy at the federal, state, and local levels.
 
