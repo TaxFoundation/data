@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita
+0,US,United States,8503
+1,AL,Alabama,7243
+2,AK,Alaska,20651
+4,AZ,Arizona,6686
+5,AR,Arkansas,7237
+6,CA,California,9320
+8,CO,Colorado,8254
+9,CT,Connecticut,10425
+10,DE,Delaware,10005
+11,DC,District of Columbia,18397
+12,FL,Florida,6979
+13,GA,Georgia,6541
+15,HI,Hawaii,9863
+16,ID,Idaho,6432
+17,IL,Illinois,8518
+18,IN,Indiana,7492
+19,IA,Iowa,9176
+20,KS,Kansas,8383
+21,KY,Kentucky,6985
+22,LA,Louisiana,8534
+23,ME,Maine,8525
+24,MD,Maryland,9126
+25,MA,Massachusetts,9774
+26,MI,Michigan,7842
+27,MN,Minnesota,9495
+28,MS,Mississippi,8201
+29,MO,Missouri,7133
+30,MT,Montana,7950
+31,NE,Nebraska,8714
+32,NV,Nevada,6727
+33,NH,New Hampshire,7459
+34,NJ,New Jersey,9856
+35,NM,New Mexico,8773
+36,NY,New York,13175
+37,NC,North Carolina,7492
+38,ND,North Dakota,14003
+39,OH,Ohio,8251
+40,OK,Oklahoma,7464
+41,OR,Oregon,8657
+42,PA,Pennsylvania,8471
+44,RI,Rhode Island,9564
+45,SC,South Carolina,7380
+46,SD,South Dakota,7373
+47,TN,Tennessee,6559
+48,TX,Texas,7250
+49,UT,Utah,7359
+50,VT,Vermont,10416
+51,VA,Virginia,7780
+53,WA,Washington,8414
+54,WV,West Virginia,8407
+55,WI,Wisconsin,8367
+56,WY,Wyoming,14485
