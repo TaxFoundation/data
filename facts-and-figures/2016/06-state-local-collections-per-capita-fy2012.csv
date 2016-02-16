@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita,rank
+0,US,United States,4600,
+1,AL,Alabama,3048,50
+2,AK,Alaska,9211,1
+4,AZ,Arizona,3417,44
+5,AR,Arkansas,3639,36
+6,CA,California,5328,13
+8,CO,Colorado,4339,23
+9,CT,Connecticut,7263,4
+10,DE,Delaware,4611,19
+11,DC,District of Columbia,9514,-1
+12,FL,Florida,3378,45
+13,GA,Georgia,3324,46
+15,HI,Hawaii,5708,8
+16,ID,Idaho,3165,48
+17,IL,Illinois,5374,12
+18,IN,Indiana,3793,33
+19,IA,Iowa,4459,20
+20,KS,Kansas,4457,21
+21,KY,Kentucky,3508,40
+22,LA,Louisiana,3796,32
+23,ME,Maine,4818,15
+24,MD,Maryland,5470,10
+25,MA,Massachusetts,5723,7
+26,MI,Michigan,3750,34
+27,MN,Minnesota,5548,9
+28,MS,Mississippi,3431,43
+29,MO,Missouri,3460,42
+30,MT,Montana,3798,31
+31,NE,Nebraska,4653,17
+32,NV,Nevada,3877,29
+33,NH,New Hampshire,4197,26
+34,NJ,New Jersey,6309,5
+35,NM,New Mexico,3673,35
+36,NY,New York,8049,3
+37,NC,North Carolina,3610,37
+38,ND,North Dakota,8823,2
+39,OH,Ohio,4274,24
+40,OK,Oklahoma,3492,41
+41,OR,Oregon,3909,27
+42,PA,Pennsylvania,4626,18
+44,RI,Rhode Island,5131,14
+45,SC,South Carolina,3196,47
+46,SD,South Dakota,3509,39
+47,TN,Tennessee,3106,49
+48,TX,Texas,3863,30
+49,UT,Utah,3509,38
+50,VT,Vermont,5420,11
+51,VA,Virginia,4239,25
+53,WA,Washington,4416,22
+54,WV,West Virginia,3899,28
+55,WI,Wisconsin,4803,16
+56,WY,Wyoming,5795,6

@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,averageCellTaxRate
+0,US,United States,0.0646
+1,AL,Alabama,0.0975
+2,AK,Alaska,0.1269
+4,AZ,Arizona,0.1198
+5,AR,Arkansas,0.1431
+6,CA,California,0.116
+8,CO,Colorado,0.1078
+9,CT,Connecticut,0.0744
+10,DE,Delaware,0.0629
+11,DC,District of Columbia,0.1163
+12,FL,Florida,0.1466
+13,GA,Georgia,0.0922
+15,HI,Hawaii,0.0761
+16,ID,Idaho,0.0217
+17,IL,Illinois,0.1746
+18,IN,Indiana,0.1106
+19,IA,Iowa,0.0871
+20,KS,Kansas,0.1353
+21,KY,Kentucky,0.1056
+22,LA,Louisiana,0.0729
+23,ME,Maine,0.0735
+24,MD,Maryland,0.1267
+25,MA,Massachusetts,0.0893
+26,MI,Michigan,0.0828
+27,MN,Minnesota,0.0954
+28,MS,Mississippi,0.0914
+29,MO,Missouri,0.1479
+30,MT,Montana,0.0611
+31,NE,Nebraska,0.1853
+32,NV,Nevada,0.0195
+33,NH,New Hampshire,0.0822
+34,NJ,New Jersey,0.0893
+35,NM,New Mexico,0.1122
+36,NY,New York,0.179
+37,NC,North Carolina,0.0859
+38,ND,North Dakota,0.1227
+39,OH,Ohio,0.0842
+40,OK,Oklahoma,0.1088
+41,OR,Oregon,0.018
+42,PA,Pennsylvania,0.1414
+44,RI,Rhode Island,0.147
+45,SC,South Carolina,0.1058
+46,SD,South Dakota,0.1314
+47,TN,Tennessee,0.1199
+48,TX,Texas,0.1153
+49,UT,Utah,0.1277
+50,VT,Vermont,0.085
+51,VA,Virginia,0.0661
+53,WA,Washington,0.1869
+54,WV,West Virginia,0.0643
+55,WI,Wisconsin,0.0717
+56,WY,Wyoming,0.0795
