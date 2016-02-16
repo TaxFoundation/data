@@ -1,0 +1,91 @@
+id,stateAbbr,stateName,Rates,incomeGreaterThan,incomeNotGreaterThan
+1,AL,Alabama,0.065,0,
+2,AK,Alaska,0,0,25000
+2,AK,Alaska,0.02,25000,49000
+2,AK,Alaska,0.03,49000,74000
+2,AK,Alaska,0.04,74000,99000
+2,AK,Alaska,0.05,99000,124000
+2,AK,Alaska,0.06,124000,148000
+2,AK,Alaska,0.07,148000,173000
+2,AK,Alaska,0.08,173000,198000
+2,AK,Alaska,0.09,198000,222000
+2,AK,Alaska,0.094,222000,
+4,AZ,Arizona,0.055,0,
+5,AR,Arkansas,0.01,0,3000
+5,AR,Arkansas,0.02,3000,6000
+5,AR,Arkansas,0.03,6000,11000
+5,AR,Arkansas,0.05,11000,25000
+5,AR,Arkansas,0.06,25000,100000
+5,AR,Arkansas,0.065,100000,
+6,CA,California,0.0884,0,
+8,CO,Colorado,0.0463,0,
+9,CT,Connecticut,0.09,0,
+10,DE,Delaware,0.087,0,
+11,DC,District of Columbia,0.094,0,
+12,FL,Florida,0.055,0,
+13,GA,Georgia,0.06,0,
+15,HI,Hawaii,0.044,0,25000
+15,HI,Hawaii,0.054,25000,100000
+15,HI,Hawaii,0.064,100000,
+16,ID,Idaho,0.074,0,
+17,IL,Illinois,0.0775,0,
+18,IN,Indiana,0.065,0,
+19,IA,Iowa,0.06,0,25000
+19,IA,Iowa,0.08,25000,100000
+19,IA,Iowa,0.1,100000,250000
+19,IA,Iowa,0.12,250000,
+20,KS,Kansas,0.04,0,50000
+20,KS,Kansas,0.07,50000,
+21,KY,Kentucky,0.04,0,50000
+21,KY,Kentucky,0.05,50000,100000
+21,KY,Kentucky,0.06,100000,
+22,LA,Louisiana,0.04,0,25000
+22,LA,Louisiana,0.05,25000,50000
+22,LA,Louisiana,0.06,50000,100000
+22,LA,Louisiana,0.07,100000,200000
+22,LA,Louisiana,0.08,200000,
+23,ME,Maine,0.035,0,25000
+23,ME,Maine,0.0793,25000,75000
+23,ME,Maine,0.0833,75000,250000
+23,ME,Maine,0.0893,250000,
+24,MD,Maryland,0.0825,0,
+25,MA,Massachusetts,0.08,0,
+26,MI,Michigan,0.06,0,
+27,MN,Minnesota,0.098,0,
+28,MS,Mississippi,0.03,0,5000
+28,MS,Mississippi,0.04,5000,10000
+28,MS,Mississippi,0.05,10000,
+29,MO,Missouri,0.0625,0,
+30,MT,Montana,0.0675,0,
+31,NE,Nebraska,0.0558,0,100000
+31,NE,Nebraska,0.0781,100000,
+32,NV,Nevada,0,0,
+33,NH,New Hampshire,0.085,0,100000
+34,NJ,New Jersey,0.09,100000,
+35,NM,New Mexico,0.048,0,500000
+35,NM,New Mexico,0.064,500000,1000000
+35,NM,New Mexico,0.066,1000000,
+36,NY,New York,0.065,0,
+37,NC,North Carolina,0.04,0,
+38,ND,North Dakota,0.0141,0,25000
+38,ND,North Dakota,0.0355,25000,50000
+38,ND,North Dakota,0.0431,50000,
+39,OH,Ohio,0,0,
+40,OK,Oklahoma,0.06,0,
+41,OR,Oregon,0.066,0,1000000
+41,OR,Oregon,0.076,1000000,
+42,PA,Pennsylvania,0.0999,0,
+44,RI,Rhode Island,0.07,0,
+45,SC,South Carolina,0.05,0,
+46,SD,South Dakota,0,0,
+47,TN,Tennessee,0.065,0,
+48,TX,Texas,0,0,
+49,UT,Utah,0.05,0,
+50,VT,Vermont,0.06,0,10000
+50,VT,Vermont,0.07,10000,25000
+50,VT,Vermont,0.085,25000,
+51,VA,Virginia,0.06,0,
+53,WA,Washington,0,0,
+54,WV,West Virginia,0.065,0,
+55,WI,Wisconsin,0.079,0,
+56,WY,Wyoming,0,0,
