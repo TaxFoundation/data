@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,propTaxAsPercentPropValue
+0,US,United States,0.012
+1,AL,Alabama,0.004
+2,AK,Alaska,0.0101
+4,AZ,Arizona,0.0066
+5,AR,Arkansas,0.0064
+6,CA,California,0.0073
+8,CO,Colorado,0.0059
+9,CT,Connecticut,0.0153
+10,DE,Delaware,0.0055
+11,DC,District of Columbia,0.0054
+12,FL,Florida,0.0098
+13,GA,Georgia,0.0091
+15,HI,Hawaii,0.0028
+16,ID,Idaho,0.0073
+17,IL,Illinois,0.0198
+18,IN,Indiana,0.0056
+19,IA,Iowa,0.0142
+20,KS,Kansas,0.013
+21,KY,Kentucky,0.008
+22,LA,Louisiana,0.005
+23,ME,Maine,0.012
+24,MD,Maryland,0.01
+25,MA,Massachusetts,0.0111
+26,MI,Michigan,0.0146
+27,MN,Minnesota,0.0109
+28,MS,Mississippi,0.0065
+29,MO,Missouri,0.01
+30,MT,Montana,0.0075
+31,NE,Nebraska,0.0165
+32,NV,Nevada,0.0071
+33,NH,New Hampshire,0.0199
+34,NJ,New Jersey,0.0211
+35,NM,New Mexico,0.0066
+36,NY,New York,0.0138
+37,NC,North Carolina,0.0084
+38,ND,North Dakota,0.09
+39,OH,Ohio,0.0158
+40,OK,Oklahoma,0.0085
+41,OR,Oregon,0.0101
+42,PA,Pennsylvania,0.0146
+44,RI,Rhode Island,0.0146
+45,SC,South Carolina,0.0055
+46,SD,South Dakota,0.0122
+47,TN,Tennessee,0.0075
+48,TX,Texas,0.0167
+49,UT,Utah,0.0063
+50,VT,Vermont,0.017
+51,VA,Virginia,0.0081
+53,WA,Washington,0.0094
+54,WV,West Virginia,0.0053
+55,WI,Wisconsin,0.0174
+56,WY,Wyoming,0.0051

@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,debtPerCapita
+0,US,United States,9338
+1,AL,Alabama,6546
+2,AK,Alaska,13039
+4,AZ,Arizona,7339
+5,AR,Arkansas,4784
+6,CA,California,10941
+8,CO,Colorado,10092
+9,CT,Connecticut,12058
+10,DE,Delaware,9005
+11,DC,District of Columbia,19104
+12,FL,Florida,7473
+13,GA,Georgia,5573
+15,HI,Hawaii,10151
+16,ID,Idaho,3645
+17,IL,Illinois,11536
+18,IN,Indiana,7520
+19,IA,Iowa,5982
+20,KS,Kansas,8925
+21,KY,Kentucky,9479
+22,LA,Louisiana,8435
+23,ME,Maine,6326
+24,MD,Maryland,8238
+25,MA,Massachusetts,14213
+26,MI,Michigan,7708
+27,MN,Minnesota,8863
+28,MS,Mississippi,4724
+29,MO,Missouri,7541
+30,MT,Montana,5231
+31,NE,Nebraska,8008
+32,NV,Nevada,9606
+33,NH,New Hampshire,8643
+34,NJ,New Jersey,11334
+35,NM,New Mexico,7823
+36,NY,New York,17584
+37,NC,North Carolina,5233
+38,ND,North Dakota,6438
+39,OH,Ohio,7128
+40,OK,Oklahoma,4899
+41,OR,Oregon,8858
+42,PA,Pennsylvania,10188
+44,RI,Rhode Island,11692
+45,SC,South Carolina,8874
+46,SD,South Dakota,6954
+47,TN,Tennessee,5667
+48,TX,Texas,9989
+49,UT,Utah,6759
+50,VT,Vermont,7247
+51,VA,Virginia,7919
+53,WA,Washington,11084
+54,WV,West Virginia,5882
+55,WI,Wisconsin,7737
+56,WY,Wyoming,3420
