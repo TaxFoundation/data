@@ -1,0 +1,51 @@
+id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedasGroceries,sodaTreatedasGroceries
+1,AL,Alabama,0.04,Included in Base,TRUE,TRUE
+2,AK,Alaska,0,0,0,0
+4,AZ,Arizona,0.056,Exempt,TRUE,TRUE
+5,AR,Arkansas,0.065,0.015,TRUE,TRUE
+6,CA,California,0.075,Exempt,TRUE,FALSE
+8,CO,Colorado,0.029,Exempt,FALSE,FALSE
+9,CT,Connecticut,0.0635,Exempt,FALSE,FALSE
+10,DE,Delaware,0,0,0,0
+12,FL,Florida,0.06,Exempt,FALSE,FALSE
+13,GA,Georgia,0.04,Exempt,TRUE,TRUE
+15,HI,Hawaii,0.04,Included in Base,TRUE,TRUE
+16,ID,Idaho,0.06,Included in Base,TRUE,TRUE
+17,IL,Illinois,0.0625,0.01,FALSE,FALSE
+18,IN,Indiana,0.07,Exempt,FALSE,FALSE
+19,IA,Iowa,0.06,Exempt,FALSE,FALSE
+20,KS,Kansas,0.065,Included in Base,TRUE,TRUE
+21,KY,Kentucky,0.06,Exempt,FALSE,FALSE
+22,LA,Louisiana,0.04,Exempt,TRUE,TRUE
+23,ME,Maine,0.055,Exempt,FALSE,FALSE
+24,MD,Maryland,0.06,Exempt,FALSE,FALSE
+25,MA,Massachusetts,0.0625,Exempt,TRUE,TRUE
+26,MI,Michigan,0.06,Exempt,TRUE,TRUE
+27,MN,Minnesota,0.06875,Exempt,FALSE,FALSE
+28,MS,Mississippi,0.07,Included in Base,TRUE,TRUE
+29,MO,Missouri,0.04225,0.01225,TRUE,TRUE
+30,MT,Montana,0,0,0,0
+31,NE,Nebraska,0.055,Exempt,TRUE,TRUE
+32,NV,Nevada,0.0685,Exempt,TRUE,TRUE
+33,NH,New Hampshire,0,0,0,0
+34,NJ,New Jersey,0.07,Exempt,FALSE,FALSE
+35,NM,New Mexico,0.05125,Exempt,TRUE,TRUE
+36,NY,New York,0.04,Exempt,FALSE,FALSE
+37,NC,North Carolina,0.0475,Exempt,FALSE,FALSE
+38,ND,North Dakota,0.05,Exempt,FALSE,FALSE
+39,OH,Ohio,0.0575,Exempt,TRUE,FALSE
+40,OK,Oklahoma,0.045,Included in Base,TRUE,TRUE
+41,OR,Oregon,0,0,0,0
+42,PA,Pennsylvania,0.06,Exempt,TRUE,FALSE
+44,RI,Rhode Island,0.07,Exempt,FALSE,FALSE
+45,SC,South Carolina,0.06,Exempt,TRUE,TRUE
+46,SD,South Dakota,0.04,Included in Base,TRUE,TRUE
+47,TN,Tennessee,0.07,0.05,TRUE,TRUE
+48,TX,Texas,0.0625,Exempt,FALSE,FALSE
+49,UT,Utah,0.0595,0.0175,TRUE,TRUE
+50,VT,Vermont,0.06,Exempt,TRUE,TRUE
+51,VA,Virginia,0.053,0.025,TRUE,TRUE
+53,WA,Washington,0.065,Exempt,TRUE,FALSE
+54,WV,West Virginia,0.06,Exempt,FALSE,FALSE
+55,WI,Wisconsin,0.05,Exempt,FALSE,FALSE
+56,WY,Wyoming,0.04,Exempt,TRUE,TRUE

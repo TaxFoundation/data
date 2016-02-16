@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,taxPerGallon
+0,US,United States,0.58
+1,AL,Alabama,1.07
+2,AK,Alaska,0.16
+4,AZ,Arizona,0.35
+5,AR,Arkansas,0.2
+6,CA,California,0.08
+8,CO,Colorado,0.23
+9,CT,Connecticut,0.16
+10,DE,Delaware,0.64
+11,DC,District of Columbia,0.64
+12,FL,Florida,0.48
+13,GA,Georgia,0.48
+15,HI,Hawaii,0.93
+16,ID,Idaho,0.15
+17,IL,Illinois,0.23
+18,IN,Indiana,0.12
+19,IA,Iowa,0.19
+20,KS,Kansas,0.18
+21,KY,Kentucky,0.84
+22,LA,Louisiana,0.32
+23,ME,Maine,0.35
+24,MD,Maryland,0.49
+25,MA,Massachusetts,0.11
+26,MI,Michigan,0.2
+27,MN,Minnesota,0.47
+28,MS,Mississippi,0.43
+29,MO,Missouri,0.06
+30,MT,Montana,0.14
+31,NE,Nebraska,0.31
+32,NV,Nevada,0.16
+33,NH,New Hampshire,0.3
+34,NJ,New Jersey,0.12
+35,NM,New Mexico,0.41
+36,NY,New York,0.14
+37,NC,North Carolina,0.62
+38,ND,North Dakota,0.27
+39,OH,Ohio,0.18
+40,OK,Oklahoma,0.4
+41,OR,Oregon,0.08
+42,PA,Pennsylvania,0.08
+44,RI,Rhode Island,0.12
+45,SC,South Carolina,0.77
+46,SD,South Dakota,0.27
+47,TN,Tennessee,1.29
+48,TX,Texas,0.2
+49,UT,Utah,0.41
+50,VT,Vermont,0.27
+51,VA,Virginia,0.26
+53,WA,Washington,0.26
+54,WV,West Virginia,0.18
+55,WI,Wisconsin,0.06
+56,WY,Wyoming,0.02
