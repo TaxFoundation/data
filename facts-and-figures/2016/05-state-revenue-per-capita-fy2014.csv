@@ -1,0 +1,52 @@
+id,stateAbbr,stateName,revenuePerCapita
+0,US,United States,5403
+1,AL,Alabama,4712
+2,AK,Alaska,16653
+4,AZ,Arizona,4400
+5,AR,Arkansas,5852
+6,CA,California,5719
+8,CO,Colorado,4388
+9,CT,Connecticut,7074
+10,DE,Delaware,8423
+12,FL,Florida,3814
+13,GA,Georgia,3842
+15,HI,Hawaii,7684
+16,ID,Idaho,4551
+17,IL,Illinois,5086
+18,IN,Indiana,5098
+19,IA,Iowa,5994
+20,KS,Kansas,5267
+21,KY,Kentucky,5212
+22,LA,Louisiana,5458
+23,ME,Maine,6014
+24,MD,Maryland,5859
+25,MA,Massachusetts,6884
+26,MI,Michigan,5489
+27,MN,Minnesota,6393
+28,MS,Mississippi,5854
+29,MO,Missouri,4412
+30,MT,Montana,5686
+31,NE,Nebraska,5253
+32,NV,Nevada,4086
+33,NH,New Hampshire,4636
+34,NJ,New Jersey,6047
+35,NM,New Mexico,6850
+36,NY,New York,8390
+37,NC,North Carolina,4832
+38,ND,North Dakota,11138
+39,OH,Ohio,5267
+40,OK,Oklahoma,5398
+41,OR,Oregon,5813
+42,PA,Pennsylvania,5457
+44,RI,Rhode Island,6585
+45,SC,South Carolina,4647
+46,SD,South Dakota,4774
+47,TN,Tennessee,4218
+48,TX,Texas,4262
+49,UT,Utah,5101
+50,VT,Vermont,8986
+51,VA,Virginia,4976
+53,WA,Washington,5115
+54,WV,West Virginia,6687
+55,WI,Wisconsin,5620
+56,WY,Wyoming,10168
