@@ -28,7 +28,7 @@ Published [[whenever]].
 | 20 | [State General Sales Tax Collections per Capita](#table20) | Fiscal Year 2014 | `20-state-general-sales-tax-collections-per-capita-fy2014.csv` |
 | 21 | [State and Local General Sales Tax Collections Per Capita](#table21) | Fiscal Year 2013 | `21-state-local-general-sales-tax-collections-per-capita-fy2013.csv` |
 | 22 | [State Gasoline Tax Rates Per Gallon](#table22) | 2016-01-01 | `22-state-gasoline-tax-rates-per-gallon-2016.csv` |
-| 23 | [Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes](#table23) | Fiscal Year 2013 | `23-state-local-road-spending-by-source-fy2016.csv` |
+| 23 | [Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes](#table23) | Fiscal Year 2013 | `23-state-local-road-spending-by-source-fy2013.csv` |
 | 24 | [State Cigarette Excise Tax Rates (Dollars Per 20-Pack)](#table24) | 2016-01-01 | `24-state-cigarette-excise-tax-rates-per-pack-2016.csv` |
 | 25 | [State Spirits Excise Tax Rates (Dollars Per Gallon)](#table25) | 2016-01-01 | `25-state-spirits-excise-tax-rates-dollars-per-gallon-2016.csv` |
 | 26 | [State Wine Excise Tax Rates (Dollars Per Gallon)](#table26) | 2016-01-01 | `26-state-wine-excise-tax-rates-dollars-per-gallon-2016.csv` |

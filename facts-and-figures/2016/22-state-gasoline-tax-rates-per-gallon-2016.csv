@@ -48,6 +48,6 @@ id,stateAbbr,stateName,exciseTax,otherTax
 50,VT,Vermont,0.121,0.1836
 51,VA,Virginia,0.1983,0.025
 53,WA,Washington,0.445,0
-54,WV,West Virginia,0.205,0.141
+54,WV,West Virginia,0.205,0.127
 55,WI,Wisconsin,0.309,0.02
 56,WY,Wyoming,0.23,0.01

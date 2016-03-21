@@ -14,7 +14,7 @@ id,stateAbbr,stateName,propTaxAsPercentPropValue
 15,HI,Hawaii,0.0028
 16,ID,Idaho,0.0073
 17,IL,Illinois,0.0198
-18,IN,Indiana,0.0056
+18,IN,Indiana,0.0086
 19,IA,Iowa,0.0142
 20,KS,Kansas,0.013
 21,KY,Kentucky,0.008
@@ -34,7 +34,7 @@ id,stateAbbr,stateName,propTaxAsPercentPropValue
 35,NM,New Mexico,0.0066
 36,NY,New York,0.0138
 37,NC,North Carolina,0.0084
-38,ND,North Dakota,0.09
+38,ND,North Dakota,0.0095
 39,OH,Ohio,0.0158
 40,OK,Oklahoma,0.0085
 41,OR,Oregon,0.0101
