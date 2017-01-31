@@ -1,12 +1,10 @@
-"Table 1. Summary of Federal Income Tax Data, 2014",,,,,,,
+Table 1. Summary of Federal Income Tax Data, 2014,,,,,,,
 ,Top 1%,Top 5%,Top 10%,Top 25%,Top 50%,Bottom 50%,All Taxpayers
-Number of Returns,"1,395,620","6,978,102","13,956,203","34,890,509","69,781,017","69,781,017","139,562,034"
-Adjusted Gross Income ($ millions),"$1,997,819","$3,490,867","$4,583,416","$6,690,287","$8,614,544","$1,094,119","$9,708,663"
+Number of Returns,1,395,620,6,978,102,13,956,203,34,890,509,69,781,017,69,781,017,139,562,034
+Adjusted Gross Income ($ millions),$1,997,819,$3,490,867,$4,583,416,$6,690,287,$8,614,544,$1,094,119,$9,708,663
 Share of Total Adjusted Gross Income,20.58%,35.96%,47.21%,68.91%,88.73%,11.27%,100.00%
-Income Taxes Paid ($ millions),"$542,640","$824,153","$974,124","$1,192,679","$1,336,637","$37,740","$1,374,379"
+Income Taxes Paid ($ millions),$542,640,$824,153,$974,124,$1,192,679,$1,336,637,$37,740,$1,374,379
 Share of Total Income Taxes Paid,39.48%,59.97%,70.88%,86.78%,97.25%,2.75%,100.00%
-Income Split Point,"$465,626","$188,996","$133,445","$77,714","$38,173",,
+Income Split Point,$465,626,$188,996,$133,445,$77,714,$38,173,,
 Average Tax Rate,27.16%,23.61%,21.25%,17.83%,15.52%,3.45%,14.16%
 Note: Does not include dependent filers,,,,,,,
-,,,,,,,
-,,,,,,,
