@@ -1,4 +1,4 @@
-# World Corporate Tax Rates 1993-2014
+# World Corporate Tax Rates 1993-2022
 
 This dataset compiled by the Tax Foundation lists known top marginal general corporate income tax rate for countries and equivalent taxing authories and GDP for the years 1993 to 2014. As of publication, these data are incomplete. Corporate tax rate and GDP totals have not been found by the Tax Foundation for all countries. We are continuing to build this dataset and welcome any new sources of information.
 
